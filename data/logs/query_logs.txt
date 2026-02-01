@@ -1,0 +1,201 @@
+
+
+=== QUERY @ 2026-02-01T15:10:05.062528 ===
+Question: what is the name present in the document
+
+[CONTEXT 1] (score=0.4194)
+"Retrieval Augmented Generation (RAG) combines document retrieval with large language models to produce grounded answers."
+
+[CONTEXT 2] (score=0.4068)
+cians to translate requirements into models.
+• Implemented document classification and information extraction using open-source OCR and GLiNER, leveraging classical NLP and ML techniques
+without LLMs.
+• Built non-LLM pipelines for government ID document processing using OCR, rule-based validation, and traditional NLP for structured data
+extraction.
+• Technologies Used: Python, PyTorch, Hugging Face, OpenCV, Langchain, LangGraph, RAG, Vector Databases, Neo4j, NLP
+Dell Technologies Feb 2025 - Jun 
+
+[CONTEXT 3] (score=0.4068)
+cians to translate requirements into models.
+• Implemented document classification and information extraction using open-source OCR and GLiNER, leveraging classical NLP and ML techniques
+without LLMs.
+• Built non-LLM pipelines for government ID document processing using OCR, rule-based validation, and traditional NLP for structured data
+extraction.
+• Technologies Used: Python, PyTorch, Hugging Face, OpenCV, Langchain, LangGraph, RAG, Vector Databases, Neo4j, NLP
+Dell Technologies Feb 2025 - Jun 
+
+[CONTEXT 4] (score=0.4068)
+cians to translate requirements into models.
+• Implemented document classification and information extraction using open-source OCR and GLiNER, leveraging classical NLP and ML techniques
+without LLMs.
+• Built non-LLM pipelines for government ID document processing using OCR, rule-based validation, and traditional NLP for structured data
+extraction.
+• Technologies Used: Python, PyTorch, Hugging Face, OpenCV, Langchain, LangGraph, RAG, Vector Databases, Neo4j, NLP
+Dell Technologies Feb 2025 - Jun 
+
+[CONTEXT 5] (score=0.4039)
+galore
+KLE Prerana PU College 2021
+Class XII, State Board Hubballi
+Sri Krishnadevaraya Educational Society 2019
+Class X, State Board Sindhanur
+CERTIFICATIONS
+• NPTEL Python
+• NPTEL Design and Analysis of Algorithms
+• NPTEL Database Management System
+ACHIEVEMENTS
+• Reached the finals of the college-organized Coding Challenge, finishing among the top 2 finalists.
+LANGUAGES
+• English
+• Kannada
+
+FINAL ANSWER:
+Based on the given context, I can see that there are multiple documents with similar information. However, I can try to find the name mentioned in the document.
+
+In Context 2, Context 3, and Context 4, I see that the name "Dell Technologies" is mentioned, but it's a company name, not a personal name.
+
+In Context 5, I see a list of certifications and achievements, but I don't see any name mentioned in the document.
+
+However, I do see a mention of "KLE Prerana PU College" and "Sri Krishnadevaraya Educational Society" which are institutions, but not a personal name.
+
+Unfortunately, I don't see any personal name mentioned in the document.
+
+So, my answer is: I don't know.
+
+
+=== QUERY @ 2026-02-01T15:16:10.967644 ===
+Question: what is th ename present in the docuemnt
+
+[CONTEXT 1] (score=0.5078)
+
+
+[CONTEXT 2] (score=0.4357)
+
+
+SANDESH PATIL
+AI Engineer | +91 7349215174 | patil2004sandesh@gmail.com ||Linkedin | Bengaluru
+PROFESSIONAL SUMMARY
+AI Engineer specializing in machine learning, deep learning, and data science. Proficient in Python, PyTorch,
+TensorFlow, Hugging Face, NLP, and LLM fine-tuning. I build and deploy real-time solutions across healthcare,
+computer vision, and automation, delivering scalable, production-grade systems with measurable impact.
+TECHNICAL SKILLS
+Programming Languages: C, Python, Java, Go Lang
+Frameworks: PyTorch, Hugging Face, Langchain, LangGraph
+Nlp: NLP
+Cloud Deployment: Docker, Kubernetes
+Tools And Databases: MySQL, Neo4j, Google Colab, Kaggle, Vector Databases
+Others: ML, Deep Learning, RAG, LLM fine-tuning
+PROFESSIONAL EXPERIENCE
+AI Engineer | Jun 2025 - Present
+Meril | Bengaluru
+● Led design and deployment of end-to-end AI pipelines for clinical NLP and computer vision, enabling
+real-time processing and structured outputs.
+● Applied LLM fine-tuning and evaluation frameworks to enhance decision support; partnered with clinicians
+to translate requirements into models.
+● Built rule-based document and ID classification to improve data integrity and compliance; automated
+extraction of key fields.
+● Implemented production monitoring and CI/CD to harden services, improving reliability and reducing
+incidents.
+Technologies Used: Python, PyTorch, Hugging Face, OpenCV, Langchain, LangGraph, RAG, Vector Databases, Neo4j,
+NLP
+Software Development Intern | Feb 2025 - Jun 2025
+Dell Technologies | Bengaluru
+● Contributed to infrastructure automation workflows using Golang and Python, focusing on scalable
+orchestration and deployment.
+● Built and optimized containerized services with Docker and Kubernetes to streamline environment setup and
+rollouts.
+● Collaborated on testing, debugging, and performance tuning to ensure production readiness and stability
+across modules.
+● Improved release reliability with CI/CD and validation gates, reducing deployment failures by
+.
+Technologies Used: Golang, Python, Kubernetes, Docker
+PROJECTS
+AI model for predicting Tooth Resorption
+Built AI models to detect early signs of root resorption from dental imagery to aid orthodontic treatment decisions.
+● Developed CNN + Random Forest pipeline with OpenCV preprocessing, improving early detection rates
+and reducing false negatives.
+● Applied data augmentation and model tuning to increase accuracy while maintaining inference speed
+suitable for clinical workflows.
+Transformed By Uplers
+Sign Language Recognition
+Implemented real-time gesture classification to recognize sign language and enhance accessibility for
+hearing-impaired users.
+● Built CNN with Transfer Learning using TensorFlow, achieving accuracy of 90% with inference latency
+around 45–60 ms on live video.
+● Created labeled dataset with LabelImg and OpenCV pipeline, expanding training data by 1200+ to improve
+generalization by 18–22%.
+Traffic Flow Management
+Designed ML-driven congestion detection and signal optimization using real-time feeds to reduce urban traffic
+delays.
+● Implemented ML-based congestion detection with TensorFlow and real-time processing, reducing average
+wait times by 15–20% on test routes.
+● Optimized signal timing strategies, decreasing congestion events by ~15% and improving throughput across
+monitored intersections.
+EDUCATION
+Bachelor of Technology, CSE | 2025
+Dayananda Sagar University | Bangalore
+Class XII, State Board | 2021
+KLE Prerana PU College | Hubballi
+Class X, State Board | 2019
+Sri Krishnadevaraya Educational Society | Sindhanur
+CERTIFICATIONS
+● NPTEL Python
+● NPTEL Design and Analysis of Algorithms
+● NPTEL Database Management System
+ACHIEVEMENTS
+● Reached the finals of the college-organized Coding Challenge, finishing among the top 2 finalists.
+LANGUAGES
+● English
+● Kannada
+Transformed By Uplers
+
+[CONTEXT 3] (score=0.4174)
+galore
+KLE Prerana PU College 2021
+Class XII, State Board Hubballi
+Sri Krishnadevaraya Educational Society 2019
+Class X, State Board Sindhanur
+CERTIFICATIONS
+• NPTEL Python
+• NPTEL Design and Analysis of Algorithms
+• NPTEL Database Management System
+ACHIEVEMENTS
+• Reached the finals of the college-organized Coding Challenge, finishing among the top 2 finalists.
+LANGUAGES
+• English
+• Kannada
+
+[CONTEXT 4] (score=0.4174)
+galore
+KLE Prerana PU College 2021
+Class XII, State Board Hubballi
+Sri Krishnadevaraya Educational Society 2019
+Class X, State Board Sindhanur
+CERTIFICATIONS
+• NPTEL Python
+• NPTEL Design and Analysis of Algorithms
+• NPTEL Database Management System
+ACHIEVEMENTS
+• Reached the finals of the college-organized Coding Challenge, finishing among the top 2 finalists.
+LANGUAGES
+• English
+• Kannada
+
+[CONTEXT 5] (score=0.4174)
+galore
+KLE Prerana PU College 2021
+Class XII, State Board Hubballi
+Sri Krishnadevaraya Educational Society 2019
+Class X, State Board Sindhanur
+CERTIFICATIONS
+• NPTEL Python
+• NPTEL Design and Analysis of Algorithms
+• NPTEL Database Management System
+ACHIEVEMENTS
+• Reached the finals of the college-organized Coding Challenge, finishing among the top 2 finalists.
+LANGUAGES
+• English
+• Kannada
+
+FINAL ANSWER:
+I don't know

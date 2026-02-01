@@ -1,0 +1,2067 @@
+2026-02-01 15:15:41,901 | INFO | INGEST STARTED | file=SANDESH PATIL(UPDATED).pdf
+2026-02-01 15:15:43,052 | INFO | [INGESTED CHUNK 1]
+
+2026-02-01 15:15:43,052 | INFO | [INGESTED CHUNK 2]
+
+
+SANDESH PATIL
+AI Engineer | +91 7349215174 | patil2004sandesh@gmail.com ||Linkedin | Bengaluru
+PROFESSIONAL SUMMARY
+AI Engineer specializing in machine learning, deep learning, and data science. Proficient in Python, PyTorch,
+TensorFlow, Hugging Face, NLP, and LLM fine-tuning. I build and deploy real-time solutions across healthcare,
+computer vision, and automation, delivering scalable, production-grade systems with measurable impact.
+TECHNICAL SKILLS
+Programming Languages: C, Python, Java, Go Lang
+Frameworks: PyTorch, Hugging Face, Langchain, LangGraph
+Nlp: NLP
+Cloud Deployment: Docker, Kubernetes
+Tools And Databases: MySQL, Neo4j, Google Colab, Kaggle, Vector Databases
+Others: ML, Deep Learning, RAG, LLM fine-tuning
+PROFESSIONAL EXPERIENCE
+AI Engineer | Jun 2025 - Present
+Meril | Bengaluru
+● Led design and deployment of end-to-end AI pipelines for clinical NLP and computer vision, enabling
+real-time processing and structured outputs.
+● Applied LLM fine-tuning and evaluation frameworks to enhance decision support; partnered with clinicians
+to translate requirements into models.
+● Built rule-based document and ID classification to improve data integrity and compliance; automated
+extraction of key fields.
+● Implemented production monitoring and CI/CD to harden services, improving reliability and reducing
+incidents.
+Technologies Used: Python, PyTorch, Hugging Face, OpenCV, Langchain, LangGraph, RAG, Vector Databases, Neo4j,
+NLP
+Software Development Intern | Feb 2025 - Jun 2025
+Dell Technologies | Bengaluru
+● Contributed to infrastructure automation workflows using Golang and Python, focusing on scalable
+orchestration and deployment.
+● Built and optimized containerized services with Docker and Kubernetes to streamline environment setup and
+rollouts.
+● Collaborated on testing, debugging, and performance tuning to ensure production readiness and stability
+across modules.
+● Improved release reliability with CI/CD and validation gates, reducing deployment failures by
+.
+Technologies Used: Golang, Python, Kubernetes, Docker
+PROJECTS
+AI model for predicting Tooth Resorption
+Built AI models to detect early signs of root resorption from dental imagery to aid orthodontic treatment decisions.
+● Developed CNN + Random Forest pipeline with OpenCV preprocessing, improving early detection rates
+and reducing false negatives.
+● Applied data augmentation and model tuning to increase accuracy while maintaining inference speed
+suitable for clinical workflows.
+Transformed By Uplers
+Sign Language Recognition
+Implemented real-time gesture classification to recognize sign language and enhance accessibility for
+hearing-impaired users.
+● Built CNN with Transfer Learning using TensorFlow, achieving accuracy of 90% with inference latency
+around 45–60 ms on live video.
+● Created labeled dataset with LabelImg and OpenCV pipeline, expanding training data by 1200+ to improve
+generalization by 18–22%.
+Traffic Flow Management
+Designed ML-driven congestion detection and signal optimization using real-time feeds to reduce urban traffic
+delays.
+● Implemented ML-based congestion detection with TensorFlow and real-time processing, reducing average
+wait times by 15–20% on test routes.
+● Optimized signal timing strategies, decreasing congestion events by ~15% and improving throughput across
+monitored intersections.
+EDUCATION
+Bachelor of Technology, CSE | 2025
+Dayananda Sagar University | Bangalore
+Class XII, State Board | 2021
+KLE Prerana PU College | Hubballi
+Class X, State Board | 2019
+Sri Krishnadevaraya Educational Society | Sindhanur
+CERTIFICATIONS
+● NPTEL Python
+● NPTEL Design and Analysis of Algorithms
+● NPTEL Database Management System
+ACHIEVEMENTS
+● Reached the finals of the college-organized Coding Challenge, finishing among the top 2 finalists.
+LANGUAGES
+● English
+● Kannada
+Transformed By Uplers
+2026-02-01 15:15:43,318 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 15:15:43,504 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 15:15:46,715 | INFO | INGEST COMPLETED | file=SANDESH PATIL(UPDATED).pdf | chunks=2
+2026-02-01 15:16:11,378 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 15:16:13,373 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 16:12:29,075 | INFO | INGEST STARTED | file=SANDESH PATIL(UPDATED).pdf
+2026-02-01 16:12:29,926 | INFO | [INGESTED CHUNK 1]
+SANDESH PATIL
+AI Engineer | +91 7349215174 | patil2004sandesh@gmail.com ||Linkedin | Bengaluru
+
+PROFESSIONAL SUMMARY
+AI Engineer specializing in machine learning, deep learning, and data science. Proficient in Python, PyTorch,
+TensorFlow, Hugging Face, NLP, and LLM fine-tuning. I build and deploy real-time solutions across healthcare,
+computer vision, and automation, delivering scalable, production-grade systems with measurable impact.
+
+TECHNICAL SKILLS
+Programming Languages: C, Python, Java, Go Lang
+Frameworks: PyTorch, Hugging Face, Langchain, LangGraph
+Nlp: NLP
+Cloud Deployment: Docker, Kubernetes
+Tools And Databases: MySQL, Neo4j, Google Colab, Kaggle, Vector Databases
+Others: ML, Deep Learning, RAG, LLM fine-tuning
+2026-02-01 16:12:29,927 | INFO | [INGESTED CHUNK 2]
+ployment: Docker, Kubernetes
+Tools And Databases: MySQL, Neo4j, Google Colab, Kaggle, Vector Databases
+Others: ML, Deep Learning, RAG, LLM fine-tuning
+
+PROFESSIONAL EXPERIENCE
+AI Engineer | Jun 2025 - Present
+Meril | Bengaluru
+
+● Led design and deployment of end-to-end AI pipelines for clinical NLP and computer vision, enabling
+real-time processing and structured outputs.
+
+● Applied LLM fine-tuning and evaluation frameworks to enhance decision support; partnered with clinicians
+to translate requirements into models.
+
+● Built rule-based document and ID classification to improve data integrity and compliance; automated
+extraction of key fields.
+2026-02-01 16:12:29,927 | INFO | [INGESTED CHUNK 3]
+irements into models.
+
+● Built rule-based document and ID classification to improve data integrity and compliance; automated
+extraction of key fields.
+
+● Implemented production monitoring and CI/CD to harden services, improving reliability and reducing
+incidents.
+Technologies Used: Python, PyTorch, Hugging Face, OpenCV, Langchain, LangGraph, RAG, Vector Databases, Neo4j,
+NLP
+Software Development Intern | Feb 2025 - Jun 2025
+Dell Technologies | Bengaluru
+
+● Contributed to infrastructure automation workflows using Golang and Python, focusing on scalable
+orchestration and deployment.
+
+● Built and optimized containerized services with Docker and Kubernetes to streamline environment setup and
+rollouts.
+
+● Collaborated on testing, debugging, and performance tuning to ensure production readiness and stability
+across modules.
+2026-02-01 16:12:29,927 | INFO | [INGESTED CHUNK 4]
+ronment setup and
+rollouts.
+
+● Collaborated on testing, debugging, and performance tuning to ensure production readiness and stability
+across modules.
+
+● Improved release reliability with CI/CD and validation gates, reducing deployment failures by
+.
+Technologies Used: Golang, Python, Kubernetes, Docker
+
+PROJECTS
+AI model for predicting Tooth Resorption
+Built AI models to detect early signs of root resorption from dental imagery to aid orthodontic treatment decisions.
+
+● Developed CNN + Random Forest pipeline with OpenCV preprocessing, improving early detection rates
+and reducing false negatives.
+
+● Applied data augmentation and model tuning to increase accuracy while maintaining inference speed
+suitable for clinical workflows.
+Transformed By Uplers
+Sign Language Recognition
+Implemented real-time gesture classification to recognize sign language and enhance accessibility for
+hearing-impaired users.
+2026-02-01 16:12:29,928 | INFO | [INGESTED CHUNK 5]
+ign Language Recognition
+Implemented real-time gesture classification to recognize sign language and enhance accessibility for
+hearing-impaired users.
+
+● Built CNN with Transfer Learning using TensorFlow, achieving accuracy of 90% with inference latency
+around 45–60 ms on live video.
+
+● Created labeled dataset with LabelImg and OpenCV pipeline, expanding training data by 1200+ to improve
+generalization by 18–22%.
+Traffic Flow Management
+Designed ML-driven congestion detection and signal optimization using real-time feeds to reduce urban traffic
+delays.
+
+● Implemented ML-based congestion detection with TensorFlow and real-time processing, reducing average
+wait times by 15–20% on test routes.
+
+● Optimized signal timing strategies, decreasing congestion events by ~15% and improving throughput across
+monitored intersections.
+2026-02-01 16:12:29,928 | INFO | [INGESTED CHUNK 6]
+% on test routes.
+
+● Optimized signal timing strategies, decreasing congestion events by ~15% and improving throughput across
+monitored intersections.
+
+EDUCATION
+Bachelor of Technology, CSE | 2025
+Dayananda Sagar University | Bangalore
+Class XII, State Board | 2021
+KLE Prerana PU College | Hubballi
+Class X, State Board | 2019
+Sri Krishnadevaraya Educational Society | Sindhanur
+
+CERTIFICATIONS
+
+● NPTEL Python
+
+● NPTEL Design and Analysis of Algorithms
+
+● NPTEL Database Management System
+
+ACHIEVEMENTS
+
+● Reached the finals of the college-organized Coding Challenge, finishing among the top 2 finalists.
+
+LANGUAGES
+
+● English
+
+● Kannada
+Transformed By Uplers
+2026-02-01 16:12:30,372 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:12:30,586 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:12:30,773 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:12:30,964 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:12:31,164 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:12:31,367 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:12:37,255 | INFO | INGEST COMPLETED | file=SANDESH PATIL(UPDATED).pdf | chunks=6
+2026-02-01 16:12:53,644 | INFO | QUERY | hi , are the skill presen in the above resume
+2026-02-01 16:12:53,877 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:12:58,419 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 16:12:58,448 | INFO | ANSWER | Yes, the skills presented in the resume are:
+
+1. Programming Languages: 
+   - C
+   - Python
+   - Java
+   - Go Lang
+
+2. Frameworks: 
+   - PyTorch
+   - Hugging Face
+   - Langchain
+   - LangGraph
+
+3. NLP: 
+   - NLP
+
+4. Cloud Deployment: 
+   - Docker
+   - Kubernetes
+
+5. Tools And Databases: 
+   - MySQL
+   - Neo4j
+   - Google Colab
+   - Kaggle
+   - Vector Databases
+
+6. Others: 
+   - ML
+   - Deep Learning
+   - RAG
+   - LLM fine-tuning
+2026-02-01 16:13:22,016 | INFO | QUERY | what is th ename present in the resumee
+2026-02-01 16:13:22,429 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:13:24,618 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 16:13:24,619 | INFO | ANSWER | Sandeep
+2026-02-01 16:13:57,164 | INFO | QUERY | what i shte user name present int eh resume
+2026-02-01 16:13:57,564 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:13:59,513 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 16:13:59,513 | INFO | ANSWER | The username present in the resume is "patil2004sandesh@gmail.com".
+2026-02-01 16:14:25,933 | INFO | QUERY | what is hte name present in the resumee
+2026-02-01 16:14:26,171 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:14:28,383 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 16:14:28,383 | INFO | ANSWER | Sandeep Patil
+2026-02-01 16:14:56,421 | INFO | QUERY | what are the projects sandesh patil did
+2026-02-01 16:14:56,834 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:14:58,728 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 16:14:58,728 | INFO | ANSWER | The projects Sandesh Patil did are:
+
+1. AI model for predicting Tooth Resorption
+2. Sign Language Recognition
+2026-02-01 16:15:28,828 | INFO | QUERY | when he is graducated
+2026-02-01 16:15:29,213 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:15:31,083 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 16:15:31,083 | INFO | ANSWER | Bachelor of Technology, CSE | 2025
+2026-02-01 16:15:50,849 | INFO | QUERY | when he is graducated and from which college he graducted
+2026-02-01 16:15:51,258 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:15:53,171 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 16:15:53,171 | INFO | ANSWER | He will be graduated in 2025 from Dayananda Sagar University in Bangalore.
+2026-02-01 16:19:19,444 | INFO | QUERY | what is th ename present in the docuemnt
+2026-02-01 16:19:19,702 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:19:22,775 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 16:19:22,783 | INFO | ANSWER | I don't know.
+2026-02-01 16:21:27,882 | INFO | INGEST STARTED | file=AI_Heart_Attack_Prediction_Designed[1].pptx
+2026-02-01 16:21:27,971 | INFO | [INGESTED CHUNK 1]
+--- SLIDE 1 ---
+AI-Based Heart Attack Prediction Using Sensors
+A Smart Health Monitoring System
+Presented by: Sandesh Patil
+
+--- SLIDE 2 ---
+Introduction
+
+- Heart attacks are one of the leading causes of death globally.
+
+- Early detection can save lives.
+
+- Idea: Use sensors and AI to predict heart attacks in real-time.
+
+--- SLIDE 3 ---
+Objectives
+
+- Monitor vital signs using sensors.
+
+- Detect abnormal patterns using AI.
+
+- Alert users and caregivers instantly.
+
+--- SLIDE 4 ---
+Symptoms of Heart Attack
+
+- Increased heart rate (Tachycardia)
+
+- Irregular heartbeat (Arrhythmia)
+
+- Shortness of breath
+
+- Cold sweat
+
+- Drop in oxygen level
+
+- Chest pain or pressure
+
+- Dizziness or fatigue
+2026-02-01 16:21:27,971 | INFO | [INGESTED CHUNK 2]
+ia)
+
+- Irregular heartbeat (Arrhythmia)
+
+- Shortness of breath
+
+- Cold sweat
+
+- Drop in oxygen level
+
+- Chest pain or pressure
+
+- Dizziness or fatigue
+
+--- SLIDE 5 ---
+Sensors Used
+Symptom | Sensor Used
+Heart rate | Pulse Sensor, ECG Sensor
+Irregular heartbeat | ECG Sensor (AD8232)
+Oxygen level (SpO2) | MAX30100 / MAX30102
+Sweating | GSR Sensor
+Body temperature | Temperature Sensor
+Motion/fatigue | Accelerometer
+Breathing rate | Piezo/Respiratory sensor
+
+--- SLIDE 6 ---
+System Architecture
+
+- Sensors collect real-time vitals.
+
+- Microcontroller (Arduino/ESP32) transmits data.
+
+- Data sent to mobile app or cloud.
+
+- AI model analyzes patterns.
+
+- Alert triggered if danger is detected.
+
+--- SLIDE 7 ---
+AI Model Workflow
+1. Data Collection (Sensors or Dataset)
+2. Preprocessing & Feature Extraction
+3. Model Training (Random Forest, CNN, LSTM)
+4. Model Testing & Evaluation
+5. Real-Time Prediction & Alert System
+
+--- SLIDE 8 ---
+AI Model Types
+2026-02-01 16:21:27,972 | INFO | [INGESTED CHUNK 3]
+tion
+3. Model Training (Random Forest, CNN, LSTM)
+4. Model Testing & Evaluation
+5. Real-Time Prediction & Alert System
+
+--- SLIDE 8 ---
+AI Model Types
+
+- Classical ML: Random Forest, SVM, XGBoost
+
+- Deep Learning: 1D CNN, LSTM, CNN+LSTM
+
+- Anomaly Detection: Autoencoder + Classifier
+
+--- SLIDE 9 ---
+Datasets (for model training)
+
+- MIT-BIH Arrhythmia Dataset
+
+- PTB-XL ECG Dataset
+
+- PhysioNet (Multi-parameter ICU data)
+
+--- SLIDE 10 ---
+Output Example
+
+- Status: ALERT
+
+- Risk Level: High
+
+- Probability: 92.7%
+
+- Recommendation: Seek medical help immediately
+
+--- SLIDE 11 ---
+Advantages
+
+- Real-time monitoring
+
+- Non-invasive
+
+- Preventive alerts
+
+- Portable and wearable
+
+- Helpful for elderly or heart patients
+
+--- SLIDE 12 ---
+Challenges
+
+- False positives/negatives
+
+- Noise in sensor data
+
+- Sensor placement issues
+
+- Medical-grade validation required
+
+--- SLIDE 13 ---
+Future Scope
+
+- Integration with smartwatches
+2026-02-01 16:21:27,972 | INFO | [INGESTED CHUNK 4]
+- Noise in sensor data
+
+- Sensor placement issues
+
+- Medical-grade validation required
+
+--- SLIDE 13 ---
+Future Scope
+
+- Integration with smartwatches
+
+- Cloud-based health monitoring
+
+- Real-time emergency services alert
+
+- Edge AI deployment on low-power devices
+
+--- SLIDE 14 ---
+Conclusion
+
+- Smart health systems can help detect heart attacks early.
+
+- AI + sensors offer a powerful solution.
+
+- Early prediction can save lives.
+
+--- SLIDE 15 ---
+Thank You
+
+- Any Questions?
+
+- Contact:patil2004sandesh@gmail.com
+2026-02-01 16:21:28,392 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:21:28,669 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:21:28,852 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:21:29,052 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:21:34,708 | INFO | INGEST COMPLETED | file=AI_Heart_Attack_Prediction_Designed[1].pptx | chunks=4
+2026-02-01 16:21:58,228 | INFO | QUERY | what is the project name
+2026-02-01 16:21:58,464 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:22:01,951 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 16:22:01,977 | INFO | ANSWER | I don't know.
+2026-02-01 16:22:30,249 | INFO | QUERY | whaty is the conetent present in the 14th slide
+2026-02-01 16:22:30,640 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:22:32,509 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 16:22:32,512 | INFO | ANSWER | The content present in the 14th slide is:
+
+- Smart health systems can help detect heart attacks early.
+- AI + sensors offer a powerful solution.
+- Early prediction can save lives.
+2026-02-01 16:23:05,880 | INFO | QUERY | give me the summary of thios ppt
+2026-02-01 16:23:06,300 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:23:08,681 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 16:23:08,681 | INFO | ANSWER | This PPT presentation discusses an AI-based heart attack prediction system using sensors. The system aims to monitor vital signs, detect abnormal patterns, and alert users and caregivers in real-time. The presentation covers the following key points:
+
+1. Introduction: Heart attacks are a leading cause of death globally, and early detection can save lives.
+2. Objectives: Monitor vital signs using sensors, detect abnormal patterns using AI, and alert users and caregivers instantly.
+3. Symptoms of Heart Attack: Various symptoms such as increased heart rate, irregular heartbeat, shortness of breath, etc.
+4. Sensors Used: Different sensors used to collect real-time vitals such as pulse sensor, ECG sensor, oxygen level sensor, etc.
+5. System Architecture: Sensors collect data, which is transmitted to a microcontroller, then to a mobile app or cloud, and finally analyzed by an AI model.
+6. AI Model Workflow: Data collection, preprocessing, model training (using Random Forest, CNN, LSTM), testing, and real-time prediction.
+7. AI Model Types: Classical ML, Deep Learning, and Anomaly Detection models.
+8. Datasets: MIT-BIH Arrhythmia Dataset, PTB-XL ECG Dataset, and PhysioNet (Multi-parameter ICU data).
+9. Output Example: Status, risk level, probability, and recommendation.
+10. Advantages: Real-time monitoring, non-invasive, preventive alerts, portable, and helpful for elderly or heart patients.
+11. Challenges: False positives/negatives, noise in sensor data, sensor placement issues, and medical-grade validation required.
+12. Future Scope: Integration with smartwatches, cloud-based health monitoring, real-time emergency services alert, and edge AI deployment on low-power devices.
+
+The presentation concludes that smart health systems can help detect heart attacks early, and AI + sensors offer a powerful solution for early prediction and saving lives.
+2026-02-01 16:23:31,643 | INFO | QUERY | what is th etitle present in this ppt
+2026-02-01 16:23:31,881 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:23:33,890 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 16:23:33,890 | INFO | ANSWER | The title of the presentation is "AI-Based Heart Attack Prediction Using Sensors"
+2026-02-01 16:29:46,177 | INFO | INGEST STARTED | file=Project-Management-Sample-Data.xlsx
+2026-02-01 16:29:49,026 | INFO | [INGESTED CHUNK 1]
+
+2026-02-01 16:29:49,026 | INFO | [INGESTED CHUNK 2]
+
+
+--- SHEET: Project Management Data ---
+nan | Excel Sample Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Management Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Name | Task Name | Assigned to | Start Date | Days Required | End Date | Progress
+nan | Marketing | Market Research | Alice | 2024-01-01 00:00:00 | 13 | 2024-01-14 00:00:00 | 0.78
+nan | Marketing | Content Creation | Bob | 2024-01-14 00:00:00 | 14 | 2024-01-28 00:00:00 | 1
+nan | Marketing | Social Media Planning | Charlie | 2024-01-28 00:00:00 | 22 | 2024-02-19 00:00:00 | 0.45
+nan | Marketing | Campaign Analysis | Daisy | 2024-02-18 00:00:00 | 25 | 2024-03-14 00:00:00 | 0
+nan | Product Dev | Prototype Development | Ethan | 2024-01-02 00:00:00 | 18 | 2024-01-20 00:00:00 | 1
+nan | Product Dev | Quality Assurance | Fiona | 2024-01-20 00:00:00 | 10 | 2024-01-30 00:00:00 | 0.78
+nan | Product Dev | User Interface Design | Gabriel | 2024-02-04 00:00:00 | 25 | 2024-02-29 00:00:00 | 0
+nan | Customer Svc | Service Improvement | Hannah | 2024-02-01 00:00:00 | 22 | 2024-02-23 00:00:00 | 1
+nan | Customer Svc | Ticket Resolution | Ian | 2024-02-24 00:00:00 | 25 | 2024-03-20 00:00:00 | 1
+nan | Customer Svc | Customer Feedback | Julia | 2024-03-21 00:00:00 | 30 | 2024-04-20 00:00:00 | 0
+nan | Financial | Budget Analysis | Kevin | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0.1
+nan | Financial | Financial Reporting | Mark | 2024-02-13 00:00:00 | 21 | 2024-02-09 00:00:00 | 0.78
+nan | Financial | Investment Planning | Mark | 2024-03-19 00:00:00 | 25 | 2024-04-13 00:00:00 | 1
+nan | Research | Market Trends Analysis | Nathan | 2024-01-02 00:00:00 | 23 | 2024-01-25 00:00:00 | 0.5
+nan | Research | Data Collection | Olivia | 2024-01-26 00:00:00 | 32 | 2024-02-27 00:00:00 | 0
+nan | Research | Research Paper Writing | Peter | 2024-02-28 00:00:00 | 27 | 2024-03-26 00:00:00 | 0
+nan | Development | Software Development | Quinn | 2024-01-02 00:00:00 | 36 | 2024-02-07 00:00:00 | 1
+nan | Development | Feature Enhancement | Rachel | 2024-02-08 00:00:00 | 34 | 2024-03-13 00:00:00 | 0
+nan | Development | Code Review | Sam | 2024-03-14 00:00:00 | 30 | 2024-04-13 00:00:00 | 0
+nan | Production | Manufacturing | Tim | 2024-01-03 00:00:00 | 47 | 2024-02-19 00:00:00 | 0.3
+nan | Production | Quality Control | Ursula | 2024-02-17 00:00:00 | 27 | 2024-03-15 00:00:00 | 0
+nan | Production | Packaging Design | Victor | 2024-03-14 00:00:00 | 22 | 2024-04-05 00:00:00 | 0
+nan | Sales | Lead Generation | Wendy | 2024-01-03 00:00:00 | 60 | 2024-03-03 00:00:00 | 0.7
+nan | Sales | Client Meetings | Xavier | 2024-01-06 00:00:00 | 20 | 2024-01-26 00:00:00 | 0.78
+nan | Sales | Contract Negotiation | Yvette | 2024-02-03 00:00:00 | 35 | 2024-03-09 00:00:00 | 0
+nan | Support | Technical Support | Zoe | 2024-01-01 00:00:00 | 25 | 2024-01-26 00:00:00 | 1
+nan | Support | Bug Fixes | Aaron | 2024-01-27 00:00:00 | 31 | 2024-02-27 00:00:00 | 1
+nan | Support | Software Updates | Bella | 2024-03-02 00:00:00 | 22 | 2024-03-24 00:00:00 | 0
+nan | Operations | Process Optimization | Calvin | 2024-01-03 00:00:00 | 30 | 2024-02-02 00:00:00 | 0.4
+nan | Operations | Inventory Management | Diane | 2024-02-03 00:00:00 | 25 | 2024-02-28 00:00:00 | 0
+nan | Operations | Facility Maintenance | Edward | 2024-02-29 00:00:00 | 20 | 2024-03-20 00:00:00 | 0
+nan | Consulting | Strategic Planning | Fiona | 2024-01-02 00:00:00 | 35 | 2024-02-06 00:00:00 | 0.6
+nan | Consulting | Market Expansion | Gary | 2024-02-02 00:00:00 | 32 | 2024-03-05 00:00:00 | 0
+nan | Consulting | Client Advisory | Helen | 2024-03-06 00:00:00 | 25 | 2024-03-31 00:00:00 | 0
+nan | Training | Employee Training | Isaac | 2024-01-04 00:00:00 | 27 | 2024-01-31 00:00:00 | 0.8
+nan | Training | Certification Programs | Jane | 2024-01-28 00:00:00 | 30 | 2024-02-27 00:00:00 | 0
+nan | Training | Skill Development | Kyle | 2024-02-28 00:00:00 | 22 | 2024-03-21 00:00:00 | 0
+nan | Events | Event Planning | Laura | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.3
+nan | Events | Conference Management | Mike | 2024-02-03 00:00:00 | 20 | 2024-02-23 00:00:00 | 0
+nan | Events | Sponsorship Coordinatio | n Nancy | 2024-02-24 00:00:00 | 35 | 2024-03-30 00:00:00 | 0
+nan | Logistics | Supply Chain Management | Oscar | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.5
+nan | Logistics | Transportation Planning | Patricia | 2024-01-29 00:00:00 | 30 | 2024-02-28 00:00:00 | 1
+nan | Logistics | Inventory Optimization | Quentin | 2024-03-29 00:00:00 | 20 | 2024-04-18 00:00:00 | 0
+nan | Engineering | Product Design | Rachel | 2024-01-02 00:00:00 | 25 | 2024-01-27 00:00:00 | 0.2
+nan | Engineering | System Integration | Sam | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0
+nan | Engineering | Prototype Testing | Tom | 2024-02-23 00:00:00 | 27 | 2024-03-21 00:00:00 | 0
+2026-02-01 16:29:49,489 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:29:49,691 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:29:55,893 | INFO | INGEST COMPLETED | file=Project-Management-Sample-Data.xlsx | chunks=2
+2026-02-01 16:30:23,435 | INFO | QUERY | i am not getting what this xel sheet contain
+2026-02-01 16:30:23,663 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 16:30:27,815 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 16:30:27,824 | INFO | ANSWER | This Excel sheet appears to contain project management data. It includes information about various projects, such as:
+
+- Project Name
+- Task Name
+- Assigned to (team member)
+- Start Date
+- Days Required
+- End Date
+- Progress (percentage complete)
+
+The sheet seems to be organized by project, with multiple tasks listed under each project. The data is likely used to track project progress, assign tasks, and manage timelines.
+2026-02-01 19:07:28,627 | INFO | INGEST STARTED | file=Sandesh(updated) (2).pdf
+2026-02-01 19:07:29,952 | INFO | [INGESTED CHUNK 1]
+--- PAGE 1 ---
+
+SANDESH PATIL
+AI Engineer | +91 7349215174 | patil2004sandesh@gmail.com ||Linkedin | Bengaluru
+
+PROFESSIONAL SUMMARY
+AI Engineer specializing in machine learning, deep learning, and data science. Proficient in Python, PyTorch,
+TensorFlow, Hugging Face, NLP, and LLM fine-tuning. I build and deploy real-time solutions across healthcare,
+computer vision, and automation, delivering scalable, production-grade systems with measurable impact.
+
+TECHNICAL SKILLS
+Programming Languages: C, Python, Java, Go Lang
+Frameworks: PyTorch, Hugging Face, Langchain, LangGraph
+Nlp: NLP
+Cloud Deployment: Docker, Kubernetes
+Tools And Databases: MySQL, Neo4j, Google Colab, Kaggle, Vector Databases
+Others: ML, Deep Learning, RAG, LLM fine-tuning
+2026-02-01 19:07:29,952 | INFO | [INGESTED CHUNK 2]
+ployment: Docker, Kubernetes
+Tools And Databases: MySQL, Neo4j, Google Colab, Kaggle, Vector Databases
+Others: ML, Deep Learning, RAG, LLM fine-tuning
+
+PROFESSIONAL EXPERIENCE
+AI Engineer | Jun 2025 - Present
+Meril | Bengaluru
+
+● Led design and deployment of end-to-end AI pipelines for clinical NLP and computer vision, enabling
+real-time processing and structured outputs.
+
+● Applied LLM fine-tuning and evaluation frameworks to enhance decision support; partnered with clinicians
+to translate requirements into models.
+
+● Built rule-based document and ID classification to improve data integrity and compliance; automated
+extraction of key fields.
+2026-02-01 19:07:29,953 | INFO | [INGESTED CHUNK 3]
+irements into models.
+
+● Built rule-based document and ID classification to improve data integrity and compliance; automated
+extraction of key fields.
+
+● Implemented production monitoring and CI/CD to harden services, improving reliability and reducing
+incidents.
+Technologies Used: Python, PyTorch, Hugging Face, OpenCV, Langchain, LangGraph, RAG, Vector Databases, Neo4j,
+NLP
+Software Development Intern | Feb 2025 - Jun 2025
+Dell Technologies | Bengaluru
+
+● Contributed to infrastructure automation workflows using Golang and Python, focusing on scalable
+orchestration and deployment.
+
+● Built and optimized containerized services with Docker and Kubernetes to streamline environment setup and
+rollouts.
+
+● Collaborated on testing, debugging, and performance tuning to ensure production readiness and stability
+across modules.
+2026-02-01 19:07:29,953 | INFO | [INGESTED CHUNK 4]
+ronment setup and
+rollouts.
+
+● Collaborated on testing, debugging, and performance tuning to ensure production readiness and stability
+across modules.
+
+● Improved release reliability with CI/CD and validation gates, reducing deployment failures
+Technologies Used: Golang, Python, Kubernetes, Docker
+
+PROJECTS
+AI model for predicting Tooth Resorption
+Built AI models to detect early signs of root resorption from dental imagery to aid orthodontic treatment decisions.
+
+● Developed CNN + Random Forest pipeline with OpenCV preprocessing, improving early detection rates
+and reducing false negatives.
+
+● Applied data augmentation and model tuning to increase accuracy while maintaining inference speed
+suitable for clinical workflows.
+Transformed By Uplers
+
+--- PAGE 2 ---
+Sign Language Recognition
+Implemented real-time gesture classification to recognize sign language and enhance accessibility for
+hearing-impaired users.
+2026-02-01 19:07:29,954 | INFO | [INGESTED CHUNK 5]
+ign Language Recognition
+Implemented real-time gesture classification to recognize sign language and enhance accessibility for
+hearing-impaired users.
+
+● Built CNN with Transfer Learning using TensorFlow, achieving accuracy of 90% with inference latency
+around 45–60 ms on live video.
+
+● Created labeled dataset with LabelImg and OpenCV pipeline, expanding training data by 1200+ to improve
+generalization by 18–22%.
+Traffic Flow Management
+Designed ML-driven congestion detection and signal optimization using real-time feeds to reduce urban traffic
+delays.
+
+● Implemented ML-based congestion detection with TensorFlow and real-time processing, reducing average
+wait times by 15–20% on test routes.
+
+● Optimized signal timing strategies, decreasing congestion events by ~15% and improving throughput across
+monitored intersections.
+2026-02-01 19:07:29,955 | INFO | [INGESTED CHUNK 6]
+% on test routes.
+
+● Optimized signal timing strategies, decreasing congestion events by ~15% and improving throughput across
+monitored intersections.
+
+EDUCATION
+Bachelor of Technology, CSE | 2025
+Dayananda Sagar University | Bangalore
+Class XII, State Board | 2021
+KLE Prerana PU College | Hubballi
+Class X, State Board | 2019
+Sri Krishnadevaraya Educational Society | Sindhanur
+
+CERTIFICATIONS
+
+● NPTEL Python
+
+● NPTEL Design and Analysis of Algorithms
+
+● NPTEL Database Management System
+
+ACHIEVEMENTS
+
+● Reached the finals of the college-organized Coding Challenge, finishing among the top 2 finalists.
+
+LANGUAGES
+
+● English
+
+● Kannada
+Transformed By Uplers
+2026-02-01 19:07:30,246 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:07:30,455 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:07:30,655 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:07:30,946 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:07:31,143 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:07:31,352 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:07:37,236 | INFO | INGEST COMPLETED | file=Sandesh(updated) (2).pdf | chunks=6
+2026-02-01 19:08:14,268 | INFO | [QUERY] in which company is working now
+2026-02-01 19:08:14,509 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:08:18,204 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 19:08:18,225 | INFO | [ANSWER GENERATED]
+2026-02-01 19:21:33,404 | INFO | [QUERY] tell me about my experience
+2026-02-01 19:21:33,854 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:21:36,415 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 19:21:36,435 | INFO | [ANSWER GENERATED]
+2026-02-01 19:22:00,764 | INFO | INGEST STARTED | file=Project-Management-Sample-Data.xlsx
+2026-02-01 19:22:01,245 | INFO | [INGESTED CHUNK 1]
+
+2026-02-01 19:22:01,245 | INFO | [INGESTED CHUNK 2]
+
+
+--- SHEET: Project Management Data ---
+nan | Excel Sample Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Management Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Name | Task Name | Assigned to | Start Date | Days Required | End Date | Progress
+nan | Marketing | Market Research | Alice | 2024-01-01 00:00:00 | 13 | 2024-01-14 00:00:00 | 0.78
+nan | Marketing | Content Creation | Bob | 2024-01-14 00:00:00 | 14 | 2024-01-28 00:00:00 | 1
+nan | Marketing | Social Media Planning | Charlie | 2024-01-28 00:00:00 | 22 | 2024-02-19 00:00:00 | 0.45
+nan | Marketing | Campaign Analysis | Daisy | 2024-02-18 00:00:00 | 25 | 2024-03-14 00:00:00 | 0
+nan | Product Dev | Prototype Development | Ethan | 2024-01-02 00:00:00 | 18 | 2024-01-20 00:00:00 | 1
+nan | Product Dev | Quality Assurance | Fiona | 2024-01-20 00:00:00 | 10 | 2024-01-30 00:00:00 | 0.78
+nan | Product Dev | User Interface Design | Gabriel | 2024-02-04 00:00:00 | 25 | 2024-02-29 00:00:00 | 0
+nan | Customer Svc | Service Improvement | Hannah | 2024-02-01 00:00:00 | 22 | 2024-02-23 00:00:00 | 1
+nan | Customer Svc | Ticket Resolution | Ian | 2024-02-24 00:00:00 | 25 | 2024-03-20 00:00:00 | 1
+nan | Customer Svc | Customer Feedback | Julia | 2024-03-21 00:00:00 | 30 | 2024-04-20 00:00:00 | 0
+nan | Financial | Budget Analysis | Kevin | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0.1
+nan | Financial | Financial Reporting | Mark | 2024-02-13 00:00:00 | 21 | 2024-02-09 00:00:00 | 0.78
+nan | Financial | Investment Planning | Mark | 2024-03-19 00:00:00 | 25 | 2024-04-13 00:00:00 | 1
+nan | Research | Market Trends Analysis | Nathan | 2024-01-02 00:00:00 | 23 | 2024-01-25 00:00:00 | 0.5
+nan | Research | Data Collection | Olivia | 2024-01-26 00:00:00 | 32 | 2024-02-27 00:00:00 | 0
+nan | Research | Research Paper Writing | Peter | 2024-02-28 00:00:00 | 27 | 2024-03-26 00:00:00 | 0
+nan | Development | Software Development | Quinn | 2024-01-02 00:00:00 | 36 | 2024-02-07 00:00:00 | 1
+nan | Development | Feature Enhancement | Rachel | 2024-02-08 00:00:00 | 34 | 2024-03-13 00:00:00 | 0
+nan | Development | Code Review | Sam | 2024-03-14 00:00:00 | 30 | 2024-04-13 00:00:00 | 0
+nan | Production | Manufacturing | Tim | 2024-01-03 00:00:00 | 47 | 2024-02-19 00:00:00 | 0.3
+nan | Production | Quality Control | Ursula | 2024-02-17 00:00:00 | 27 | 2024-03-15 00:00:00 | 0
+nan | Production | Packaging Design | Victor | 2024-03-14 00:00:00 | 22 | 2024-04-05 00:00:00 | 0
+nan | Sales | Lead Generation | Wendy | 2024-01-03 00:00:00 | 60 | 2024-03-03 00:00:00 | 0.7
+nan | Sales | Client Meetings | Xavier | 2024-01-06 00:00:00 | 20 | 2024-01-26 00:00:00 | 0.78
+nan | Sales | Contract Negotiation | Yvette | 2024-02-03 00:00:00 | 35 | 2024-03-09 00:00:00 | 0
+nan | Support | Technical Support | Zoe | 2024-01-01 00:00:00 | 25 | 2024-01-26 00:00:00 | 1
+nan | Support | Bug Fixes | Aaron | 2024-01-27 00:00:00 | 31 | 2024-02-27 00:00:00 | 1
+nan | Support | Software Updates | Bella | 2024-03-02 00:00:00 | 22 | 2024-03-24 00:00:00 | 0
+nan | Operations | Process Optimization | Calvin | 2024-01-03 00:00:00 | 30 | 2024-02-02 00:00:00 | 0.4
+nan | Operations | Inventory Management | Diane | 2024-02-03 00:00:00 | 25 | 2024-02-28 00:00:00 | 0
+nan | Operations | Facility Maintenance | Edward | 2024-02-29 00:00:00 | 20 | 2024-03-20 00:00:00 | 0
+nan | Consulting | Strategic Planning | Fiona | 2024-01-02 00:00:00 | 35 | 2024-02-06 00:00:00 | 0.6
+nan | Consulting | Market Expansion | Gary | 2024-02-02 00:00:00 | 32 | 2024-03-05 00:00:00 | 0
+nan | Consulting | Client Advisory | Helen | 2024-03-06 00:00:00 | 25 | 2024-03-31 00:00:00 | 0
+nan | Training | Employee Training | Isaac | 2024-01-04 00:00:00 | 27 | 2024-01-31 00:00:00 | 0.8
+nan | Training | Certification Programs | Jane | 2024-01-28 00:00:00 | 30 | 2024-02-27 00:00:00 | 0
+nan | Training | Skill Development | Kyle | 2024-02-28 00:00:00 | 22 | 2024-03-21 00:00:00 | 0
+nan | Events | Event Planning | Laura | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.3
+nan | Events | Conference Management | Mike | 2024-02-03 00:00:00 | 20 | 2024-02-23 00:00:00 | 0
+nan | Events | Sponsorship Coordinatio | n Nancy | 2024-02-24 00:00:00 | 35 | 2024-03-30 00:00:00 | 0
+nan | Logistics | Supply Chain Management | Oscar | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.5
+nan | Logistics | Transportation Planning | Patricia | 2024-01-29 00:00:00 | 30 | 2024-02-28 00:00:00 | 1
+nan | Logistics | Inventory Optimization | Quentin | 2024-03-29 00:00:00 | 20 | 2024-04-18 00:00:00 | 0
+nan | Engineering | Product Design | Rachel | 2024-01-02 00:00:00 | 25 | 2024-01-27 00:00:00 | 0.2
+nan | Engineering | System Integration | Sam | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0
+nan | Engineering | Prototype Testing | Tom | 2024-02-23 00:00:00 | 27 | 2024-03-21 00:00:00 | 0
+2026-02-01 19:22:01,664 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:22:01,874 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:22:07,535 | INFO | INGEST COMPLETED | file=Project-Management-Sample-Data.xlsx | chunks=2
+2026-02-01 19:22:23,406 | INFO | INGEST STARTED | file=Project-Management-Sample-Data.xlsx
+2026-02-01 19:22:23,515 | INFO | [INGESTED CHUNK 1]
+
+2026-02-01 19:22:23,515 | INFO | [INGESTED CHUNK 2]
+
+
+--- SHEET: Project Management Data ---
+nan | Excel Sample Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Management Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Name | Task Name | Assigned to | Start Date | Days Required | End Date | Progress
+nan | Marketing | Market Research | Alice | 2024-01-01 00:00:00 | 13 | 2024-01-14 00:00:00 | 0.78
+nan | Marketing | Content Creation | Bob | 2024-01-14 00:00:00 | 14 | 2024-01-28 00:00:00 | 1
+nan | Marketing | Social Media Planning | Charlie | 2024-01-28 00:00:00 | 22 | 2024-02-19 00:00:00 | 0.45
+nan | Marketing | Campaign Analysis | Daisy | 2024-02-18 00:00:00 | 25 | 2024-03-14 00:00:00 | 0
+nan | Product Dev | Prototype Development | Ethan | 2024-01-02 00:00:00 | 18 | 2024-01-20 00:00:00 | 1
+nan | Product Dev | Quality Assurance | Fiona | 2024-01-20 00:00:00 | 10 | 2024-01-30 00:00:00 | 0.78
+nan | Product Dev | User Interface Design | Gabriel | 2024-02-04 00:00:00 | 25 | 2024-02-29 00:00:00 | 0
+nan | Customer Svc | Service Improvement | Hannah | 2024-02-01 00:00:00 | 22 | 2024-02-23 00:00:00 | 1
+nan | Customer Svc | Ticket Resolution | Ian | 2024-02-24 00:00:00 | 25 | 2024-03-20 00:00:00 | 1
+nan | Customer Svc | Customer Feedback | Julia | 2024-03-21 00:00:00 | 30 | 2024-04-20 00:00:00 | 0
+nan | Financial | Budget Analysis | Kevin | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0.1
+nan | Financial | Financial Reporting | Mark | 2024-02-13 00:00:00 | 21 | 2024-02-09 00:00:00 | 0.78
+nan | Financial | Investment Planning | Mark | 2024-03-19 00:00:00 | 25 | 2024-04-13 00:00:00 | 1
+nan | Research | Market Trends Analysis | Nathan | 2024-01-02 00:00:00 | 23 | 2024-01-25 00:00:00 | 0.5
+nan | Research | Data Collection | Olivia | 2024-01-26 00:00:00 | 32 | 2024-02-27 00:00:00 | 0
+nan | Research | Research Paper Writing | Peter | 2024-02-28 00:00:00 | 27 | 2024-03-26 00:00:00 | 0
+nan | Development | Software Development | Quinn | 2024-01-02 00:00:00 | 36 | 2024-02-07 00:00:00 | 1
+nan | Development | Feature Enhancement | Rachel | 2024-02-08 00:00:00 | 34 | 2024-03-13 00:00:00 | 0
+nan | Development | Code Review | Sam | 2024-03-14 00:00:00 | 30 | 2024-04-13 00:00:00 | 0
+nan | Production | Manufacturing | Tim | 2024-01-03 00:00:00 | 47 | 2024-02-19 00:00:00 | 0.3
+nan | Production | Quality Control | Ursula | 2024-02-17 00:00:00 | 27 | 2024-03-15 00:00:00 | 0
+nan | Production | Packaging Design | Victor | 2024-03-14 00:00:00 | 22 | 2024-04-05 00:00:00 | 0
+nan | Sales | Lead Generation | Wendy | 2024-01-03 00:00:00 | 60 | 2024-03-03 00:00:00 | 0.7
+nan | Sales | Client Meetings | Xavier | 2024-01-06 00:00:00 | 20 | 2024-01-26 00:00:00 | 0.78
+nan | Sales | Contract Negotiation | Yvette | 2024-02-03 00:00:00 | 35 | 2024-03-09 00:00:00 | 0
+nan | Support | Technical Support | Zoe | 2024-01-01 00:00:00 | 25 | 2024-01-26 00:00:00 | 1
+nan | Support | Bug Fixes | Aaron | 2024-01-27 00:00:00 | 31 | 2024-02-27 00:00:00 | 1
+nan | Support | Software Updates | Bella | 2024-03-02 00:00:00 | 22 | 2024-03-24 00:00:00 | 0
+nan | Operations | Process Optimization | Calvin | 2024-01-03 00:00:00 | 30 | 2024-02-02 00:00:00 | 0.4
+nan | Operations | Inventory Management | Diane | 2024-02-03 00:00:00 | 25 | 2024-02-28 00:00:00 | 0
+nan | Operations | Facility Maintenance | Edward | 2024-02-29 00:00:00 | 20 | 2024-03-20 00:00:00 | 0
+nan | Consulting | Strategic Planning | Fiona | 2024-01-02 00:00:00 | 35 | 2024-02-06 00:00:00 | 0.6
+nan | Consulting | Market Expansion | Gary | 2024-02-02 00:00:00 | 32 | 2024-03-05 00:00:00 | 0
+nan | Consulting | Client Advisory | Helen | 2024-03-06 00:00:00 | 25 | 2024-03-31 00:00:00 | 0
+nan | Training | Employee Training | Isaac | 2024-01-04 00:00:00 | 27 | 2024-01-31 00:00:00 | 0.8
+nan | Training | Certification Programs | Jane | 2024-01-28 00:00:00 | 30 | 2024-02-27 00:00:00 | 0
+nan | Training | Skill Development | Kyle | 2024-02-28 00:00:00 | 22 | 2024-03-21 00:00:00 | 0
+nan | Events | Event Planning | Laura | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.3
+nan | Events | Conference Management | Mike | 2024-02-03 00:00:00 | 20 | 2024-02-23 00:00:00 | 0
+nan | Events | Sponsorship Coordinatio | n Nancy | 2024-02-24 00:00:00 | 35 | 2024-03-30 00:00:00 | 0
+nan | Logistics | Supply Chain Management | Oscar | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.5
+nan | Logistics | Transportation Planning | Patricia | 2024-01-29 00:00:00 | 30 | 2024-02-28 00:00:00 | 1
+nan | Logistics | Inventory Optimization | Quentin | 2024-03-29 00:00:00 | 20 | 2024-04-18 00:00:00 | 0
+nan | Engineering | Product Design | Rachel | 2024-01-02 00:00:00 | 25 | 2024-01-27 00:00:00 | 0.2
+nan | Engineering | System Integration | Sam | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0
+nan | Engineering | Prototype Testing | Tom | 2024-02-23 00:00:00 | 27 | 2024-03-21 00:00:00 | 0
+2026-02-01 19:22:23,917 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:22:24,122 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:22:29,035 | INFO | INGEST COMPLETED | file=Project-Management-Sample-Data.xlsx | chunks=2
+2026-02-01 19:22:29,038 | INFO | INGEST STARTED | file=Project-Management-Sample-Data.xlsx
+2026-02-01 19:22:29,076 | INFO | [INGESTED CHUNK 1]
+
+2026-02-01 19:22:29,076 | INFO | [INGESTED CHUNK 2]
+
+
+--- SHEET: Project Management Data ---
+nan | Excel Sample Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Management Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Name | Task Name | Assigned to | Start Date | Days Required | End Date | Progress
+nan | Marketing | Market Research | Alice | 2024-01-01 00:00:00 | 13 | 2024-01-14 00:00:00 | 0.78
+nan | Marketing | Content Creation | Bob | 2024-01-14 00:00:00 | 14 | 2024-01-28 00:00:00 | 1
+nan | Marketing | Social Media Planning | Charlie | 2024-01-28 00:00:00 | 22 | 2024-02-19 00:00:00 | 0.45
+nan | Marketing | Campaign Analysis | Daisy | 2024-02-18 00:00:00 | 25 | 2024-03-14 00:00:00 | 0
+nan | Product Dev | Prototype Development | Ethan | 2024-01-02 00:00:00 | 18 | 2024-01-20 00:00:00 | 1
+nan | Product Dev | Quality Assurance | Fiona | 2024-01-20 00:00:00 | 10 | 2024-01-30 00:00:00 | 0.78
+nan | Product Dev | User Interface Design | Gabriel | 2024-02-04 00:00:00 | 25 | 2024-02-29 00:00:00 | 0
+nan | Customer Svc | Service Improvement | Hannah | 2024-02-01 00:00:00 | 22 | 2024-02-23 00:00:00 | 1
+nan | Customer Svc | Ticket Resolution | Ian | 2024-02-24 00:00:00 | 25 | 2024-03-20 00:00:00 | 1
+nan | Customer Svc | Customer Feedback | Julia | 2024-03-21 00:00:00 | 30 | 2024-04-20 00:00:00 | 0
+nan | Financial | Budget Analysis | Kevin | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0.1
+nan | Financial | Financial Reporting | Mark | 2024-02-13 00:00:00 | 21 | 2024-02-09 00:00:00 | 0.78
+nan | Financial | Investment Planning | Mark | 2024-03-19 00:00:00 | 25 | 2024-04-13 00:00:00 | 1
+nan | Research | Market Trends Analysis | Nathan | 2024-01-02 00:00:00 | 23 | 2024-01-25 00:00:00 | 0.5
+nan | Research | Data Collection | Olivia | 2024-01-26 00:00:00 | 32 | 2024-02-27 00:00:00 | 0
+nan | Research | Research Paper Writing | Peter | 2024-02-28 00:00:00 | 27 | 2024-03-26 00:00:00 | 0
+nan | Development | Software Development | Quinn | 2024-01-02 00:00:00 | 36 | 2024-02-07 00:00:00 | 1
+nan | Development | Feature Enhancement | Rachel | 2024-02-08 00:00:00 | 34 | 2024-03-13 00:00:00 | 0
+nan | Development | Code Review | Sam | 2024-03-14 00:00:00 | 30 | 2024-04-13 00:00:00 | 0
+nan | Production | Manufacturing | Tim | 2024-01-03 00:00:00 | 47 | 2024-02-19 00:00:00 | 0.3
+nan | Production | Quality Control | Ursula | 2024-02-17 00:00:00 | 27 | 2024-03-15 00:00:00 | 0
+nan | Production | Packaging Design | Victor | 2024-03-14 00:00:00 | 22 | 2024-04-05 00:00:00 | 0
+nan | Sales | Lead Generation | Wendy | 2024-01-03 00:00:00 | 60 | 2024-03-03 00:00:00 | 0.7
+nan | Sales | Client Meetings | Xavier | 2024-01-06 00:00:00 | 20 | 2024-01-26 00:00:00 | 0.78
+nan | Sales | Contract Negotiation | Yvette | 2024-02-03 00:00:00 | 35 | 2024-03-09 00:00:00 | 0
+nan | Support | Technical Support | Zoe | 2024-01-01 00:00:00 | 25 | 2024-01-26 00:00:00 | 1
+nan | Support | Bug Fixes | Aaron | 2024-01-27 00:00:00 | 31 | 2024-02-27 00:00:00 | 1
+nan | Support | Software Updates | Bella | 2024-03-02 00:00:00 | 22 | 2024-03-24 00:00:00 | 0
+nan | Operations | Process Optimization | Calvin | 2024-01-03 00:00:00 | 30 | 2024-02-02 00:00:00 | 0.4
+nan | Operations | Inventory Management | Diane | 2024-02-03 00:00:00 | 25 | 2024-02-28 00:00:00 | 0
+nan | Operations | Facility Maintenance | Edward | 2024-02-29 00:00:00 | 20 | 2024-03-20 00:00:00 | 0
+nan | Consulting | Strategic Planning | Fiona | 2024-01-02 00:00:00 | 35 | 2024-02-06 00:00:00 | 0.6
+nan | Consulting | Market Expansion | Gary | 2024-02-02 00:00:00 | 32 | 2024-03-05 00:00:00 | 0
+nan | Consulting | Client Advisory | Helen | 2024-03-06 00:00:00 | 25 | 2024-03-31 00:00:00 | 0
+nan | Training | Employee Training | Isaac | 2024-01-04 00:00:00 | 27 | 2024-01-31 00:00:00 | 0.8
+nan | Training | Certification Programs | Jane | 2024-01-28 00:00:00 | 30 | 2024-02-27 00:00:00 | 0
+nan | Training | Skill Development | Kyle | 2024-02-28 00:00:00 | 22 | 2024-03-21 00:00:00 | 0
+nan | Events | Event Planning | Laura | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.3
+nan | Events | Conference Management | Mike | 2024-02-03 00:00:00 | 20 | 2024-02-23 00:00:00 | 0
+nan | Events | Sponsorship Coordinatio | n Nancy | 2024-02-24 00:00:00 | 35 | 2024-03-30 00:00:00 | 0
+nan | Logistics | Supply Chain Management | Oscar | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.5
+nan | Logistics | Transportation Planning | Patricia | 2024-01-29 00:00:00 | 30 | 2024-02-28 00:00:00 | 1
+nan | Logistics | Inventory Optimization | Quentin | 2024-03-29 00:00:00 | 20 | 2024-04-18 00:00:00 | 0
+nan | Engineering | Product Design | Rachel | 2024-01-02 00:00:00 | 25 | 2024-01-27 00:00:00 | 0.2
+nan | Engineering | System Integration | Sam | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0
+nan | Engineering | Prototype Testing | Tom | 2024-02-23 00:00:00 | 27 | 2024-03-21 00:00:00 | 0
+2026-02-01 19:22:29,264 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:22:29,454 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:22:34,626 | INFO | INGEST COMPLETED | file=Project-Management-Sample-Data.xlsx | chunks=2
+2026-02-01 19:22:36,675 | INFO | [QUERY] what the document conatins
+2026-02-01 19:22:36,924 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:22:40,337 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 19:22:40,345 | INFO | [ANSWER GENERATED]
+2026-02-01 19:23:11,659 | INFO | INGEST STARTED | file=Project-Management-Sample-Data.xlsx
+2026-02-01 19:23:11,715 | INFO | [INGESTED CHUNK 1]
+
+2026-02-01 19:23:11,715 | INFO | [INGESTED CHUNK 2]
+
+
+--- SHEET: Project Management Data ---
+nan | Excel Sample Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Management Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Name | Task Name | Assigned to | Start Date | Days Required | End Date | Progress
+nan | Marketing | Market Research | Alice | 2024-01-01 00:00:00 | 13 | 2024-01-14 00:00:00 | 0.78
+nan | Marketing | Content Creation | Bob | 2024-01-14 00:00:00 | 14 | 2024-01-28 00:00:00 | 1
+nan | Marketing | Social Media Planning | Charlie | 2024-01-28 00:00:00 | 22 | 2024-02-19 00:00:00 | 0.45
+nan | Marketing | Campaign Analysis | Daisy | 2024-02-18 00:00:00 | 25 | 2024-03-14 00:00:00 | 0
+nan | Product Dev | Prototype Development | Ethan | 2024-01-02 00:00:00 | 18 | 2024-01-20 00:00:00 | 1
+nan | Product Dev | Quality Assurance | Fiona | 2024-01-20 00:00:00 | 10 | 2024-01-30 00:00:00 | 0.78
+nan | Product Dev | User Interface Design | Gabriel | 2024-02-04 00:00:00 | 25 | 2024-02-29 00:00:00 | 0
+nan | Customer Svc | Service Improvement | Hannah | 2024-02-01 00:00:00 | 22 | 2024-02-23 00:00:00 | 1
+nan | Customer Svc | Ticket Resolution | Ian | 2024-02-24 00:00:00 | 25 | 2024-03-20 00:00:00 | 1
+nan | Customer Svc | Customer Feedback | Julia | 2024-03-21 00:00:00 | 30 | 2024-04-20 00:00:00 | 0
+nan | Financial | Budget Analysis | Kevin | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0.1
+nan | Financial | Financial Reporting | Mark | 2024-02-13 00:00:00 | 21 | 2024-02-09 00:00:00 | 0.78
+nan | Financial | Investment Planning | Mark | 2024-03-19 00:00:00 | 25 | 2024-04-13 00:00:00 | 1
+nan | Research | Market Trends Analysis | Nathan | 2024-01-02 00:00:00 | 23 | 2024-01-25 00:00:00 | 0.5
+nan | Research | Data Collection | Olivia | 2024-01-26 00:00:00 | 32 | 2024-02-27 00:00:00 | 0
+nan | Research | Research Paper Writing | Peter | 2024-02-28 00:00:00 | 27 | 2024-03-26 00:00:00 | 0
+nan | Development | Software Development | Quinn | 2024-01-02 00:00:00 | 36 | 2024-02-07 00:00:00 | 1
+nan | Development | Feature Enhancement | Rachel | 2024-02-08 00:00:00 | 34 | 2024-03-13 00:00:00 | 0
+nan | Development | Code Review | Sam | 2024-03-14 00:00:00 | 30 | 2024-04-13 00:00:00 | 0
+nan | Production | Manufacturing | Tim | 2024-01-03 00:00:00 | 47 | 2024-02-19 00:00:00 | 0.3
+nan | Production | Quality Control | Ursula | 2024-02-17 00:00:00 | 27 | 2024-03-15 00:00:00 | 0
+nan | Production | Packaging Design | Victor | 2024-03-14 00:00:00 | 22 | 2024-04-05 00:00:00 | 0
+nan | Sales | Lead Generation | Wendy | 2024-01-03 00:00:00 | 60 | 2024-03-03 00:00:00 | 0.7
+nan | Sales | Client Meetings | Xavier | 2024-01-06 00:00:00 | 20 | 2024-01-26 00:00:00 | 0.78
+nan | Sales | Contract Negotiation | Yvette | 2024-02-03 00:00:00 | 35 | 2024-03-09 00:00:00 | 0
+nan | Support | Technical Support | Zoe | 2024-01-01 00:00:00 | 25 | 2024-01-26 00:00:00 | 1
+nan | Support | Bug Fixes | Aaron | 2024-01-27 00:00:00 | 31 | 2024-02-27 00:00:00 | 1
+nan | Support | Software Updates | Bella | 2024-03-02 00:00:00 | 22 | 2024-03-24 00:00:00 | 0
+nan | Operations | Process Optimization | Calvin | 2024-01-03 00:00:00 | 30 | 2024-02-02 00:00:00 | 0.4
+nan | Operations | Inventory Management | Diane | 2024-02-03 00:00:00 | 25 | 2024-02-28 00:00:00 | 0
+nan | Operations | Facility Maintenance | Edward | 2024-02-29 00:00:00 | 20 | 2024-03-20 00:00:00 | 0
+nan | Consulting | Strategic Planning | Fiona | 2024-01-02 00:00:00 | 35 | 2024-02-06 00:00:00 | 0.6
+nan | Consulting | Market Expansion | Gary | 2024-02-02 00:00:00 | 32 | 2024-03-05 00:00:00 | 0
+nan | Consulting | Client Advisory | Helen | 2024-03-06 00:00:00 | 25 | 2024-03-31 00:00:00 | 0
+nan | Training | Employee Training | Isaac | 2024-01-04 00:00:00 | 27 | 2024-01-31 00:00:00 | 0.8
+nan | Training | Certification Programs | Jane | 2024-01-28 00:00:00 | 30 | 2024-02-27 00:00:00 | 0
+nan | Training | Skill Development | Kyle | 2024-02-28 00:00:00 | 22 | 2024-03-21 00:00:00 | 0
+nan | Events | Event Planning | Laura | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.3
+nan | Events | Conference Management | Mike | 2024-02-03 00:00:00 | 20 | 2024-02-23 00:00:00 | 0
+nan | Events | Sponsorship Coordinatio | n Nancy | 2024-02-24 00:00:00 | 35 | 2024-03-30 00:00:00 | 0
+nan | Logistics | Supply Chain Management | Oscar | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.5
+nan | Logistics | Transportation Planning | Patricia | 2024-01-29 00:00:00 | 30 | 2024-02-28 00:00:00 | 1
+nan | Logistics | Inventory Optimization | Quentin | 2024-03-29 00:00:00 | 20 | 2024-04-18 00:00:00 | 0
+nan | Engineering | Product Design | Rachel | 2024-01-02 00:00:00 | 25 | 2024-01-27 00:00:00 | 0.2
+nan | Engineering | System Integration | Sam | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0
+nan | Engineering | Prototype Testing | Tom | 2024-02-23 00:00:00 | 27 | 2024-03-21 00:00:00 | 0
+2026-02-01 19:23:11,958 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:23:12,166 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:23:17,684 | INFO | INGEST COMPLETED | file=Project-Management-Sample-Data.xlsx | chunks=2
+2026-02-01 19:23:17,695 | INFO | INGEST STARTED | file=Project-Management-Sample-Data.xlsx
+2026-02-01 19:23:17,734 | INFO | [INGESTED CHUNK 1]
+
+2026-02-01 19:23:17,734 | INFO | [INGESTED CHUNK 2]
+
+
+--- SHEET: Project Management Data ---
+nan | Excel Sample Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Management Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Name | Task Name | Assigned to | Start Date | Days Required | End Date | Progress
+nan | Marketing | Market Research | Alice | 2024-01-01 00:00:00 | 13 | 2024-01-14 00:00:00 | 0.78
+nan | Marketing | Content Creation | Bob | 2024-01-14 00:00:00 | 14 | 2024-01-28 00:00:00 | 1
+nan | Marketing | Social Media Planning | Charlie | 2024-01-28 00:00:00 | 22 | 2024-02-19 00:00:00 | 0.45
+nan | Marketing | Campaign Analysis | Daisy | 2024-02-18 00:00:00 | 25 | 2024-03-14 00:00:00 | 0
+nan | Product Dev | Prototype Development | Ethan | 2024-01-02 00:00:00 | 18 | 2024-01-20 00:00:00 | 1
+nan | Product Dev | Quality Assurance | Fiona | 2024-01-20 00:00:00 | 10 | 2024-01-30 00:00:00 | 0.78
+nan | Product Dev | User Interface Design | Gabriel | 2024-02-04 00:00:00 | 25 | 2024-02-29 00:00:00 | 0
+nan | Customer Svc | Service Improvement | Hannah | 2024-02-01 00:00:00 | 22 | 2024-02-23 00:00:00 | 1
+nan | Customer Svc | Ticket Resolution | Ian | 2024-02-24 00:00:00 | 25 | 2024-03-20 00:00:00 | 1
+nan | Customer Svc | Customer Feedback | Julia | 2024-03-21 00:00:00 | 30 | 2024-04-20 00:00:00 | 0
+nan | Financial | Budget Analysis | Kevin | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0.1
+nan | Financial | Financial Reporting | Mark | 2024-02-13 00:00:00 | 21 | 2024-02-09 00:00:00 | 0.78
+nan | Financial | Investment Planning | Mark | 2024-03-19 00:00:00 | 25 | 2024-04-13 00:00:00 | 1
+nan | Research | Market Trends Analysis | Nathan | 2024-01-02 00:00:00 | 23 | 2024-01-25 00:00:00 | 0.5
+nan | Research | Data Collection | Olivia | 2024-01-26 00:00:00 | 32 | 2024-02-27 00:00:00 | 0
+nan | Research | Research Paper Writing | Peter | 2024-02-28 00:00:00 | 27 | 2024-03-26 00:00:00 | 0
+nan | Development | Software Development | Quinn | 2024-01-02 00:00:00 | 36 | 2024-02-07 00:00:00 | 1
+nan | Development | Feature Enhancement | Rachel | 2024-02-08 00:00:00 | 34 | 2024-03-13 00:00:00 | 0
+nan | Development | Code Review | Sam | 2024-03-14 00:00:00 | 30 | 2024-04-13 00:00:00 | 0
+nan | Production | Manufacturing | Tim | 2024-01-03 00:00:00 | 47 | 2024-02-19 00:00:00 | 0.3
+nan | Production | Quality Control | Ursula | 2024-02-17 00:00:00 | 27 | 2024-03-15 00:00:00 | 0
+nan | Production | Packaging Design | Victor | 2024-03-14 00:00:00 | 22 | 2024-04-05 00:00:00 | 0
+nan | Sales | Lead Generation | Wendy | 2024-01-03 00:00:00 | 60 | 2024-03-03 00:00:00 | 0.7
+nan | Sales | Client Meetings | Xavier | 2024-01-06 00:00:00 | 20 | 2024-01-26 00:00:00 | 0.78
+nan | Sales | Contract Negotiation | Yvette | 2024-02-03 00:00:00 | 35 | 2024-03-09 00:00:00 | 0
+nan | Support | Technical Support | Zoe | 2024-01-01 00:00:00 | 25 | 2024-01-26 00:00:00 | 1
+nan | Support | Bug Fixes | Aaron | 2024-01-27 00:00:00 | 31 | 2024-02-27 00:00:00 | 1
+nan | Support | Software Updates | Bella | 2024-03-02 00:00:00 | 22 | 2024-03-24 00:00:00 | 0
+nan | Operations | Process Optimization | Calvin | 2024-01-03 00:00:00 | 30 | 2024-02-02 00:00:00 | 0.4
+nan | Operations | Inventory Management | Diane | 2024-02-03 00:00:00 | 25 | 2024-02-28 00:00:00 | 0
+nan | Operations | Facility Maintenance | Edward | 2024-02-29 00:00:00 | 20 | 2024-03-20 00:00:00 | 0
+nan | Consulting | Strategic Planning | Fiona | 2024-01-02 00:00:00 | 35 | 2024-02-06 00:00:00 | 0.6
+nan | Consulting | Market Expansion | Gary | 2024-02-02 00:00:00 | 32 | 2024-03-05 00:00:00 | 0
+nan | Consulting | Client Advisory | Helen | 2024-03-06 00:00:00 | 25 | 2024-03-31 00:00:00 | 0
+nan | Training | Employee Training | Isaac | 2024-01-04 00:00:00 | 27 | 2024-01-31 00:00:00 | 0.8
+nan | Training | Certification Programs | Jane | 2024-01-28 00:00:00 | 30 | 2024-02-27 00:00:00 | 0
+nan | Training | Skill Development | Kyle | 2024-02-28 00:00:00 | 22 | 2024-03-21 00:00:00 | 0
+nan | Events | Event Planning | Laura | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.3
+nan | Events | Conference Management | Mike | 2024-02-03 00:00:00 | 20 | 2024-02-23 00:00:00 | 0
+nan | Events | Sponsorship Coordinatio | n Nancy | 2024-02-24 00:00:00 | 35 | 2024-03-30 00:00:00 | 0
+nan | Logistics | Supply Chain Management | Oscar | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.5
+nan | Logistics | Transportation Planning | Patricia | 2024-01-29 00:00:00 | 30 | 2024-02-28 00:00:00 | 1
+nan | Logistics | Inventory Optimization | Quentin | 2024-03-29 00:00:00 | 20 | 2024-04-18 00:00:00 | 0
+nan | Engineering | Product Design | Rachel | 2024-01-02 00:00:00 | 25 | 2024-01-27 00:00:00 | 0.2
+nan | Engineering | System Integration | Sam | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0
+nan | Engineering | Prototype Testing | Tom | 2024-02-23 00:00:00 | 27 | 2024-03-21 00:00:00 | 0
+2026-02-01 19:23:18,164 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:23:18,359 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:23:23,460 | INFO | INGEST COMPLETED | file=Project-Management-Sample-Data.xlsx | chunks=2
+2026-02-01 19:23:35,436 | INFO | INGEST STARTED | file=Project-Management-Sample-Data.xlsx
+2026-02-01 19:23:35,494 | INFO | [INGESTED CHUNK 1]
+
+2026-02-01 19:23:35,494 | INFO | [INGESTED CHUNK 2]
+
+
+--- SHEET: Project Management Data ---
+nan | Excel Sample Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Management Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Name | Task Name | Assigned to | Start Date | Days Required | End Date | Progress
+nan | Marketing | Market Research | Alice | 2024-01-01 00:00:00 | 13 | 2024-01-14 00:00:00 | 0.78
+nan | Marketing | Content Creation | Bob | 2024-01-14 00:00:00 | 14 | 2024-01-28 00:00:00 | 1
+nan | Marketing | Social Media Planning | Charlie | 2024-01-28 00:00:00 | 22 | 2024-02-19 00:00:00 | 0.45
+nan | Marketing | Campaign Analysis | Daisy | 2024-02-18 00:00:00 | 25 | 2024-03-14 00:00:00 | 0
+nan | Product Dev | Prototype Development | Ethan | 2024-01-02 00:00:00 | 18 | 2024-01-20 00:00:00 | 1
+nan | Product Dev | Quality Assurance | Fiona | 2024-01-20 00:00:00 | 10 | 2024-01-30 00:00:00 | 0.78
+nan | Product Dev | User Interface Design | Gabriel | 2024-02-04 00:00:00 | 25 | 2024-02-29 00:00:00 | 0
+nan | Customer Svc | Service Improvement | Hannah | 2024-02-01 00:00:00 | 22 | 2024-02-23 00:00:00 | 1
+nan | Customer Svc | Ticket Resolution | Ian | 2024-02-24 00:00:00 | 25 | 2024-03-20 00:00:00 | 1
+nan | Customer Svc | Customer Feedback | Julia | 2024-03-21 00:00:00 | 30 | 2024-04-20 00:00:00 | 0
+nan | Financial | Budget Analysis | Kevin | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0.1
+nan | Financial | Financial Reporting | Mark | 2024-02-13 00:00:00 | 21 | 2024-02-09 00:00:00 | 0.78
+nan | Financial | Investment Planning | Mark | 2024-03-19 00:00:00 | 25 | 2024-04-13 00:00:00 | 1
+nan | Research | Market Trends Analysis | Nathan | 2024-01-02 00:00:00 | 23 | 2024-01-25 00:00:00 | 0.5
+nan | Research | Data Collection | Olivia | 2024-01-26 00:00:00 | 32 | 2024-02-27 00:00:00 | 0
+nan | Research | Research Paper Writing | Peter | 2024-02-28 00:00:00 | 27 | 2024-03-26 00:00:00 | 0
+nan | Development | Software Development | Quinn | 2024-01-02 00:00:00 | 36 | 2024-02-07 00:00:00 | 1
+nan | Development | Feature Enhancement | Rachel | 2024-02-08 00:00:00 | 34 | 2024-03-13 00:00:00 | 0
+nan | Development | Code Review | Sam | 2024-03-14 00:00:00 | 30 | 2024-04-13 00:00:00 | 0
+nan | Production | Manufacturing | Tim | 2024-01-03 00:00:00 | 47 | 2024-02-19 00:00:00 | 0.3
+nan | Production | Quality Control | Ursula | 2024-02-17 00:00:00 | 27 | 2024-03-15 00:00:00 | 0
+nan | Production | Packaging Design | Victor | 2024-03-14 00:00:00 | 22 | 2024-04-05 00:00:00 | 0
+nan | Sales | Lead Generation | Wendy | 2024-01-03 00:00:00 | 60 | 2024-03-03 00:00:00 | 0.7
+nan | Sales | Client Meetings | Xavier | 2024-01-06 00:00:00 | 20 | 2024-01-26 00:00:00 | 0.78
+nan | Sales | Contract Negotiation | Yvette | 2024-02-03 00:00:00 | 35 | 2024-03-09 00:00:00 | 0
+nan | Support | Technical Support | Zoe | 2024-01-01 00:00:00 | 25 | 2024-01-26 00:00:00 | 1
+nan | Support | Bug Fixes | Aaron | 2024-01-27 00:00:00 | 31 | 2024-02-27 00:00:00 | 1
+nan | Support | Software Updates | Bella | 2024-03-02 00:00:00 | 22 | 2024-03-24 00:00:00 | 0
+nan | Operations | Process Optimization | Calvin | 2024-01-03 00:00:00 | 30 | 2024-02-02 00:00:00 | 0.4
+nan | Operations | Inventory Management | Diane | 2024-02-03 00:00:00 | 25 | 2024-02-28 00:00:00 | 0
+nan | Operations | Facility Maintenance | Edward | 2024-02-29 00:00:00 | 20 | 2024-03-20 00:00:00 | 0
+nan | Consulting | Strategic Planning | Fiona | 2024-01-02 00:00:00 | 35 | 2024-02-06 00:00:00 | 0.6
+nan | Consulting | Market Expansion | Gary | 2024-02-02 00:00:00 | 32 | 2024-03-05 00:00:00 | 0
+nan | Consulting | Client Advisory | Helen | 2024-03-06 00:00:00 | 25 | 2024-03-31 00:00:00 | 0
+nan | Training | Employee Training | Isaac | 2024-01-04 00:00:00 | 27 | 2024-01-31 00:00:00 | 0.8
+nan | Training | Certification Programs | Jane | 2024-01-28 00:00:00 | 30 | 2024-02-27 00:00:00 | 0
+nan | Training | Skill Development | Kyle | 2024-02-28 00:00:00 | 22 | 2024-03-21 00:00:00 | 0
+nan | Events | Event Planning | Laura | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.3
+nan | Events | Conference Management | Mike | 2024-02-03 00:00:00 | 20 | 2024-02-23 00:00:00 | 0
+nan | Events | Sponsorship Coordinatio | n Nancy | 2024-02-24 00:00:00 | 35 | 2024-03-30 00:00:00 | 0
+nan | Logistics | Supply Chain Management | Oscar | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.5
+nan | Logistics | Transportation Planning | Patricia | 2024-01-29 00:00:00 | 30 | 2024-02-28 00:00:00 | 1
+nan | Logistics | Inventory Optimization | Quentin | 2024-03-29 00:00:00 | 20 | 2024-04-18 00:00:00 | 0
+nan | Engineering | Product Design | Rachel | 2024-01-02 00:00:00 | 25 | 2024-01-27 00:00:00 | 0.2
+nan | Engineering | System Integration | Sam | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0
+nan | Engineering | Prototype Testing | Tom | 2024-02-23 00:00:00 | 27 | 2024-03-21 00:00:00 | 0
+2026-02-01 19:23:35,909 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:23:36,103 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:23:41,213 | INFO | INGEST COMPLETED | file=Project-Management-Sample-Data.xlsx | chunks=2
+2026-02-01 19:23:41,216 | INFO | INGEST STARTED | file=Project-Management-Sample-Data.xlsx
+2026-02-01 19:23:41,261 | INFO | [INGESTED CHUNK 1]
+
+2026-02-01 19:23:41,261 | INFO | [INGESTED CHUNK 2]
+
+
+--- SHEET: Project Management Data ---
+nan | Excel Sample Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Management Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Name | Task Name | Assigned to | Start Date | Days Required | End Date | Progress
+nan | Marketing | Market Research | Alice | 2024-01-01 00:00:00 | 13 | 2024-01-14 00:00:00 | 0.78
+nan | Marketing | Content Creation | Bob | 2024-01-14 00:00:00 | 14 | 2024-01-28 00:00:00 | 1
+nan | Marketing | Social Media Planning | Charlie | 2024-01-28 00:00:00 | 22 | 2024-02-19 00:00:00 | 0.45
+nan | Marketing | Campaign Analysis | Daisy | 2024-02-18 00:00:00 | 25 | 2024-03-14 00:00:00 | 0
+nan | Product Dev | Prototype Development | Ethan | 2024-01-02 00:00:00 | 18 | 2024-01-20 00:00:00 | 1
+nan | Product Dev | Quality Assurance | Fiona | 2024-01-20 00:00:00 | 10 | 2024-01-30 00:00:00 | 0.78
+nan | Product Dev | User Interface Design | Gabriel | 2024-02-04 00:00:00 | 25 | 2024-02-29 00:00:00 | 0
+nan | Customer Svc | Service Improvement | Hannah | 2024-02-01 00:00:00 | 22 | 2024-02-23 00:00:00 | 1
+nan | Customer Svc | Ticket Resolution | Ian | 2024-02-24 00:00:00 | 25 | 2024-03-20 00:00:00 | 1
+nan | Customer Svc | Customer Feedback | Julia | 2024-03-21 00:00:00 | 30 | 2024-04-20 00:00:00 | 0
+nan | Financial | Budget Analysis | Kevin | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0.1
+nan | Financial | Financial Reporting | Mark | 2024-02-13 00:00:00 | 21 | 2024-02-09 00:00:00 | 0.78
+nan | Financial | Investment Planning | Mark | 2024-03-19 00:00:00 | 25 | 2024-04-13 00:00:00 | 1
+nan | Research | Market Trends Analysis | Nathan | 2024-01-02 00:00:00 | 23 | 2024-01-25 00:00:00 | 0.5
+nan | Research | Data Collection | Olivia | 2024-01-26 00:00:00 | 32 | 2024-02-27 00:00:00 | 0
+nan | Research | Research Paper Writing | Peter | 2024-02-28 00:00:00 | 27 | 2024-03-26 00:00:00 | 0
+nan | Development | Software Development | Quinn | 2024-01-02 00:00:00 | 36 | 2024-02-07 00:00:00 | 1
+nan | Development | Feature Enhancement | Rachel | 2024-02-08 00:00:00 | 34 | 2024-03-13 00:00:00 | 0
+nan | Development | Code Review | Sam | 2024-03-14 00:00:00 | 30 | 2024-04-13 00:00:00 | 0
+nan | Production | Manufacturing | Tim | 2024-01-03 00:00:00 | 47 | 2024-02-19 00:00:00 | 0.3
+nan | Production | Quality Control | Ursula | 2024-02-17 00:00:00 | 27 | 2024-03-15 00:00:00 | 0
+nan | Production | Packaging Design | Victor | 2024-03-14 00:00:00 | 22 | 2024-04-05 00:00:00 | 0
+nan | Sales | Lead Generation | Wendy | 2024-01-03 00:00:00 | 60 | 2024-03-03 00:00:00 | 0.7
+nan | Sales | Client Meetings | Xavier | 2024-01-06 00:00:00 | 20 | 2024-01-26 00:00:00 | 0.78
+nan | Sales | Contract Negotiation | Yvette | 2024-02-03 00:00:00 | 35 | 2024-03-09 00:00:00 | 0
+nan | Support | Technical Support | Zoe | 2024-01-01 00:00:00 | 25 | 2024-01-26 00:00:00 | 1
+nan | Support | Bug Fixes | Aaron | 2024-01-27 00:00:00 | 31 | 2024-02-27 00:00:00 | 1
+nan | Support | Software Updates | Bella | 2024-03-02 00:00:00 | 22 | 2024-03-24 00:00:00 | 0
+nan | Operations | Process Optimization | Calvin | 2024-01-03 00:00:00 | 30 | 2024-02-02 00:00:00 | 0.4
+nan | Operations | Inventory Management | Diane | 2024-02-03 00:00:00 | 25 | 2024-02-28 00:00:00 | 0
+nan | Operations | Facility Maintenance | Edward | 2024-02-29 00:00:00 | 20 | 2024-03-20 00:00:00 | 0
+nan | Consulting | Strategic Planning | Fiona | 2024-01-02 00:00:00 | 35 | 2024-02-06 00:00:00 | 0.6
+nan | Consulting | Market Expansion | Gary | 2024-02-02 00:00:00 | 32 | 2024-03-05 00:00:00 | 0
+nan | Consulting | Client Advisory | Helen | 2024-03-06 00:00:00 | 25 | 2024-03-31 00:00:00 | 0
+nan | Training | Employee Training | Isaac | 2024-01-04 00:00:00 | 27 | 2024-01-31 00:00:00 | 0.8
+nan | Training | Certification Programs | Jane | 2024-01-28 00:00:00 | 30 | 2024-02-27 00:00:00 | 0
+nan | Training | Skill Development | Kyle | 2024-02-28 00:00:00 | 22 | 2024-03-21 00:00:00 | 0
+nan | Events | Event Planning | Laura | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.3
+nan | Events | Conference Management | Mike | 2024-02-03 00:00:00 | 20 | 2024-02-23 00:00:00 | 0
+nan | Events | Sponsorship Coordinatio | n Nancy | 2024-02-24 00:00:00 | 35 | 2024-03-30 00:00:00 | 0
+nan | Logistics | Supply Chain Management | Oscar | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.5
+nan | Logistics | Transportation Planning | Patricia | 2024-01-29 00:00:00 | 30 | 2024-02-28 00:00:00 | 1
+nan | Logistics | Inventory Optimization | Quentin | 2024-03-29 00:00:00 | 20 | 2024-04-18 00:00:00 | 0
+nan | Engineering | Product Design | Rachel | 2024-01-02 00:00:00 | 25 | 2024-01-27 00:00:00 | 0.2
+nan | Engineering | System Integration | Sam | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0
+nan | Engineering | Prototype Testing | Tom | 2024-02-23 00:00:00 | 27 | 2024-03-21 00:00:00 | 0
+2026-02-01 19:23:41,645 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:23:41,864 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:23:51,056 | INFO | INGEST COMPLETED | file=Project-Management-Sample-Data.xlsx | chunks=2
+2026-02-01 19:23:51,069 | INFO | INGEST STARTED | file=Project-Management-Sample-Data.xlsx
+2026-02-01 19:23:51,162 | INFO | [INGESTED CHUNK 1]
+
+2026-02-01 19:23:51,163 | INFO | [INGESTED CHUNK 2]
+
+
+--- SHEET: Project Management Data ---
+nan | Excel Sample Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Management Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Name | Task Name | Assigned to | Start Date | Days Required | End Date | Progress
+nan | Marketing | Market Research | Alice | 2024-01-01 00:00:00 | 13 | 2024-01-14 00:00:00 | 0.78
+nan | Marketing | Content Creation | Bob | 2024-01-14 00:00:00 | 14 | 2024-01-28 00:00:00 | 1
+nan | Marketing | Social Media Planning | Charlie | 2024-01-28 00:00:00 | 22 | 2024-02-19 00:00:00 | 0.45
+nan | Marketing | Campaign Analysis | Daisy | 2024-02-18 00:00:00 | 25 | 2024-03-14 00:00:00 | 0
+nan | Product Dev | Prototype Development | Ethan | 2024-01-02 00:00:00 | 18 | 2024-01-20 00:00:00 | 1
+nan | Product Dev | Quality Assurance | Fiona | 2024-01-20 00:00:00 | 10 | 2024-01-30 00:00:00 | 0.78
+nan | Product Dev | User Interface Design | Gabriel | 2024-02-04 00:00:00 | 25 | 2024-02-29 00:00:00 | 0
+nan | Customer Svc | Service Improvement | Hannah | 2024-02-01 00:00:00 | 22 | 2024-02-23 00:00:00 | 1
+nan | Customer Svc | Ticket Resolution | Ian | 2024-02-24 00:00:00 | 25 | 2024-03-20 00:00:00 | 1
+nan | Customer Svc | Customer Feedback | Julia | 2024-03-21 00:00:00 | 30 | 2024-04-20 00:00:00 | 0
+nan | Financial | Budget Analysis | Kevin | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0.1
+nan | Financial | Financial Reporting | Mark | 2024-02-13 00:00:00 | 21 | 2024-02-09 00:00:00 | 0.78
+nan | Financial | Investment Planning | Mark | 2024-03-19 00:00:00 | 25 | 2024-04-13 00:00:00 | 1
+nan | Research | Market Trends Analysis | Nathan | 2024-01-02 00:00:00 | 23 | 2024-01-25 00:00:00 | 0.5
+nan | Research | Data Collection | Olivia | 2024-01-26 00:00:00 | 32 | 2024-02-27 00:00:00 | 0
+nan | Research | Research Paper Writing | Peter | 2024-02-28 00:00:00 | 27 | 2024-03-26 00:00:00 | 0
+nan | Development | Software Development | Quinn | 2024-01-02 00:00:00 | 36 | 2024-02-07 00:00:00 | 1
+nan | Development | Feature Enhancement | Rachel | 2024-02-08 00:00:00 | 34 | 2024-03-13 00:00:00 | 0
+nan | Development | Code Review | Sam | 2024-03-14 00:00:00 | 30 | 2024-04-13 00:00:00 | 0
+nan | Production | Manufacturing | Tim | 2024-01-03 00:00:00 | 47 | 2024-02-19 00:00:00 | 0.3
+nan | Production | Quality Control | Ursula | 2024-02-17 00:00:00 | 27 | 2024-03-15 00:00:00 | 0
+nan | Production | Packaging Design | Victor | 2024-03-14 00:00:00 | 22 | 2024-04-05 00:00:00 | 0
+nan | Sales | Lead Generation | Wendy | 2024-01-03 00:00:00 | 60 | 2024-03-03 00:00:00 | 0.7
+nan | Sales | Client Meetings | Xavier | 2024-01-06 00:00:00 | 20 | 2024-01-26 00:00:00 | 0.78
+nan | Sales | Contract Negotiation | Yvette | 2024-02-03 00:00:00 | 35 | 2024-03-09 00:00:00 | 0
+nan | Support | Technical Support | Zoe | 2024-01-01 00:00:00 | 25 | 2024-01-26 00:00:00 | 1
+nan | Support | Bug Fixes | Aaron | 2024-01-27 00:00:00 | 31 | 2024-02-27 00:00:00 | 1
+nan | Support | Software Updates | Bella | 2024-03-02 00:00:00 | 22 | 2024-03-24 00:00:00 | 0
+nan | Operations | Process Optimization | Calvin | 2024-01-03 00:00:00 | 30 | 2024-02-02 00:00:00 | 0.4
+nan | Operations | Inventory Management | Diane | 2024-02-03 00:00:00 | 25 | 2024-02-28 00:00:00 | 0
+nan | Operations | Facility Maintenance | Edward | 2024-02-29 00:00:00 | 20 | 2024-03-20 00:00:00 | 0
+nan | Consulting | Strategic Planning | Fiona | 2024-01-02 00:00:00 | 35 | 2024-02-06 00:00:00 | 0.6
+nan | Consulting | Market Expansion | Gary | 2024-02-02 00:00:00 | 32 | 2024-03-05 00:00:00 | 0
+nan | Consulting | Client Advisory | Helen | 2024-03-06 00:00:00 | 25 | 2024-03-31 00:00:00 | 0
+nan | Training | Employee Training | Isaac | 2024-01-04 00:00:00 | 27 | 2024-01-31 00:00:00 | 0.8
+nan | Training | Certification Programs | Jane | 2024-01-28 00:00:00 | 30 | 2024-02-27 00:00:00 | 0
+nan | Training | Skill Development | Kyle | 2024-02-28 00:00:00 | 22 | 2024-03-21 00:00:00 | 0
+nan | Events | Event Planning | Laura | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.3
+nan | Events | Conference Management | Mike | 2024-02-03 00:00:00 | 20 | 2024-02-23 00:00:00 | 0
+nan | Events | Sponsorship Coordinatio | n Nancy | 2024-02-24 00:00:00 | 35 | 2024-03-30 00:00:00 | 0
+nan | Logistics | Supply Chain Management | Oscar | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.5
+nan | Logistics | Transportation Planning | Patricia | 2024-01-29 00:00:00 | 30 | 2024-02-28 00:00:00 | 1
+nan | Logistics | Inventory Optimization | Quentin | 2024-03-29 00:00:00 | 20 | 2024-04-18 00:00:00 | 0
+nan | Engineering | Product Design | Rachel | 2024-01-02 00:00:00 | 25 | 2024-01-27 00:00:00 | 0.2
+nan | Engineering | System Integration | Sam | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0
+nan | Engineering | Prototype Testing | Tom | 2024-02-23 00:00:00 | 27 | 2024-03-21 00:00:00 | 0
+2026-02-01 19:23:51,395 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:23:51,587 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:23:57,998 | INFO | INGEST COMPLETED | file=Project-Management-Sample-Data.xlsx | chunks=2
+2026-02-01 19:23:57,998 | INFO | INGEST STARTED | file=Project-Management-Sample-Data.xlsx
+2026-02-01 19:23:58,034 | INFO | [INGESTED CHUNK 1]
+
+2026-02-01 19:23:58,034 | INFO | [INGESTED CHUNK 2]
+
+
+--- SHEET: Project Management Data ---
+nan | Excel Sample Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Management Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Name | Task Name | Assigned to | Start Date | Days Required | End Date | Progress
+nan | Marketing | Market Research | Alice | 2024-01-01 00:00:00 | 13 | 2024-01-14 00:00:00 | 0.78
+nan | Marketing | Content Creation | Bob | 2024-01-14 00:00:00 | 14 | 2024-01-28 00:00:00 | 1
+nan | Marketing | Social Media Planning | Charlie | 2024-01-28 00:00:00 | 22 | 2024-02-19 00:00:00 | 0.45
+nan | Marketing | Campaign Analysis | Daisy | 2024-02-18 00:00:00 | 25 | 2024-03-14 00:00:00 | 0
+nan | Product Dev | Prototype Development | Ethan | 2024-01-02 00:00:00 | 18 | 2024-01-20 00:00:00 | 1
+nan | Product Dev | Quality Assurance | Fiona | 2024-01-20 00:00:00 | 10 | 2024-01-30 00:00:00 | 0.78
+nan | Product Dev | User Interface Design | Gabriel | 2024-02-04 00:00:00 | 25 | 2024-02-29 00:00:00 | 0
+nan | Customer Svc | Service Improvement | Hannah | 2024-02-01 00:00:00 | 22 | 2024-02-23 00:00:00 | 1
+nan | Customer Svc | Ticket Resolution | Ian | 2024-02-24 00:00:00 | 25 | 2024-03-20 00:00:00 | 1
+nan | Customer Svc | Customer Feedback | Julia | 2024-03-21 00:00:00 | 30 | 2024-04-20 00:00:00 | 0
+nan | Financial | Budget Analysis | Kevin | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0.1
+nan | Financial | Financial Reporting | Mark | 2024-02-13 00:00:00 | 21 | 2024-02-09 00:00:00 | 0.78
+nan | Financial | Investment Planning | Mark | 2024-03-19 00:00:00 | 25 | 2024-04-13 00:00:00 | 1
+nan | Research | Market Trends Analysis | Nathan | 2024-01-02 00:00:00 | 23 | 2024-01-25 00:00:00 | 0.5
+nan | Research | Data Collection | Olivia | 2024-01-26 00:00:00 | 32 | 2024-02-27 00:00:00 | 0
+nan | Research | Research Paper Writing | Peter | 2024-02-28 00:00:00 | 27 | 2024-03-26 00:00:00 | 0
+nan | Development | Software Development | Quinn | 2024-01-02 00:00:00 | 36 | 2024-02-07 00:00:00 | 1
+nan | Development | Feature Enhancement | Rachel | 2024-02-08 00:00:00 | 34 | 2024-03-13 00:00:00 | 0
+nan | Development | Code Review | Sam | 2024-03-14 00:00:00 | 30 | 2024-04-13 00:00:00 | 0
+nan | Production | Manufacturing | Tim | 2024-01-03 00:00:00 | 47 | 2024-02-19 00:00:00 | 0.3
+nan | Production | Quality Control | Ursula | 2024-02-17 00:00:00 | 27 | 2024-03-15 00:00:00 | 0
+nan | Production | Packaging Design | Victor | 2024-03-14 00:00:00 | 22 | 2024-04-05 00:00:00 | 0
+nan | Sales | Lead Generation | Wendy | 2024-01-03 00:00:00 | 60 | 2024-03-03 00:00:00 | 0.7
+nan | Sales | Client Meetings | Xavier | 2024-01-06 00:00:00 | 20 | 2024-01-26 00:00:00 | 0.78
+nan | Sales | Contract Negotiation | Yvette | 2024-02-03 00:00:00 | 35 | 2024-03-09 00:00:00 | 0
+nan | Support | Technical Support | Zoe | 2024-01-01 00:00:00 | 25 | 2024-01-26 00:00:00 | 1
+nan | Support | Bug Fixes | Aaron | 2024-01-27 00:00:00 | 31 | 2024-02-27 00:00:00 | 1
+nan | Support | Software Updates | Bella | 2024-03-02 00:00:00 | 22 | 2024-03-24 00:00:00 | 0
+nan | Operations | Process Optimization | Calvin | 2024-01-03 00:00:00 | 30 | 2024-02-02 00:00:00 | 0.4
+nan | Operations | Inventory Management | Diane | 2024-02-03 00:00:00 | 25 | 2024-02-28 00:00:00 | 0
+nan | Operations | Facility Maintenance | Edward | 2024-02-29 00:00:00 | 20 | 2024-03-20 00:00:00 | 0
+nan | Consulting | Strategic Planning | Fiona | 2024-01-02 00:00:00 | 35 | 2024-02-06 00:00:00 | 0.6
+nan | Consulting | Market Expansion | Gary | 2024-02-02 00:00:00 | 32 | 2024-03-05 00:00:00 | 0
+nan | Consulting | Client Advisory | Helen | 2024-03-06 00:00:00 | 25 | 2024-03-31 00:00:00 | 0
+nan | Training | Employee Training | Isaac | 2024-01-04 00:00:00 | 27 | 2024-01-31 00:00:00 | 0.8
+nan | Training | Certification Programs | Jane | 2024-01-28 00:00:00 | 30 | 2024-02-27 00:00:00 | 0
+nan | Training | Skill Development | Kyle | 2024-02-28 00:00:00 | 22 | 2024-03-21 00:00:00 | 0
+nan | Events | Event Planning | Laura | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.3
+nan | Events | Conference Management | Mike | 2024-02-03 00:00:00 | 20 | 2024-02-23 00:00:00 | 0
+nan | Events | Sponsorship Coordinatio | n Nancy | 2024-02-24 00:00:00 | 35 | 2024-03-30 00:00:00 | 0
+nan | Logistics | Supply Chain Management | Oscar | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.5
+nan | Logistics | Transportation Planning | Patricia | 2024-01-29 00:00:00 | 30 | 2024-02-28 00:00:00 | 1
+nan | Logistics | Inventory Optimization | Quentin | 2024-03-29 00:00:00 | 20 | 2024-04-18 00:00:00 | 0
+nan | Engineering | Product Design | Rachel | 2024-01-02 00:00:00 | 25 | 2024-01-27 00:00:00 | 0.2
+nan | Engineering | System Integration | Sam | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0
+nan | Engineering | Prototype Testing | Tom | 2024-02-23 00:00:00 | 27 | 2024-03-21 00:00:00 | 0
+2026-02-01 19:23:58,474 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:23:58,676 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:24:03,615 | INFO | INGEST COMPLETED | file=Project-Management-Sample-Data.xlsx | chunks=2
+2026-02-01 19:24:03,615 | INFO | INGEST STARTED | file=Project-Management-Sample-Data.xlsx
+2026-02-01 19:24:03,639 | INFO | [INGESTED CHUNK 1]
+
+2026-02-01 19:24:03,640 | INFO | [INGESTED CHUNK 2]
+
+
+--- SHEET: Project Management Data ---
+nan | Excel Sample Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Management Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Name | Task Name | Assigned to | Start Date | Days Required | End Date | Progress
+nan | Marketing | Market Research | Alice | 2024-01-01 00:00:00 | 13 | 2024-01-14 00:00:00 | 0.78
+nan | Marketing | Content Creation | Bob | 2024-01-14 00:00:00 | 14 | 2024-01-28 00:00:00 | 1
+nan | Marketing | Social Media Planning | Charlie | 2024-01-28 00:00:00 | 22 | 2024-02-19 00:00:00 | 0.45
+nan | Marketing | Campaign Analysis | Daisy | 2024-02-18 00:00:00 | 25 | 2024-03-14 00:00:00 | 0
+nan | Product Dev | Prototype Development | Ethan | 2024-01-02 00:00:00 | 18 | 2024-01-20 00:00:00 | 1
+nan | Product Dev | Quality Assurance | Fiona | 2024-01-20 00:00:00 | 10 | 2024-01-30 00:00:00 | 0.78
+nan | Product Dev | User Interface Design | Gabriel | 2024-02-04 00:00:00 | 25 | 2024-02-29 00:00:00 | 0
+nan | Customer Svc | Service Improvement | Hannah | 2024-02-01 00:00:00 | 22 | 2024-02-23 00:00:00 | 1
+nan | Customer Svc | Ticket Resolution | Ian | 2024-02-24 00:00:00 | 25 | 2024-03-20 00:00:00 | 1
+nan | Customer Svc | Customer Feedback | Julia | 2024-03-21 00:00:00 | 30 | 2024-04-20 00:00:00 | 0
+nan | Financial | Budget Analysis | Kevin | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0.1
+nan | Financial | Financial Reporting | Mark | 2024-02-13 00:00:00 | 21 | 2024-02-09 00:00:00 | 0.78
+nan | Financial | Investment Planning | Mark | 2024-03-19 00:00:00 | 25 | 2024-04-13 00:00:00 | 1
+nan | Research | Market Trends Analysis | Nathan | 2024-01-02 00:00:00 | 23 | 2024-01-25 00:00:00 | 0.5
+nan | Research | Data Collection | Olivia | 2024-01-26 00:00:00 | 32 | 2024-02-27 00:00:00 | 0
+nan | Research | Research Paper Writing | Peter | 2024-02-28 00:00:00 | 27 | 2024-03-26 00:00:00 | 0
+nan | Development | Software Development | Quinn | 2024-01-02 00:00:00 | 36 | 2024-02-07 00:00:00 | 1
+nan | Development | Feature Enhancement | Rachel | 2024-02-08 00:00:00 | 34 | 2024-03-13 00:00:00 | 0
+nan | Development | Code Review | Sam | 2024-03-14 00:00:00 | 30 | 2024-04-13 00:00:00 | 0
+nan | Production | Manufacturing | Tim | 2024-01-03 00:00:00 | 47 | 2024-02-19 00:00:00 | 0.3
+nan | Production | Quality Control | Ursula | 2024-02-17 00:00:00 | 27 | 2024-03-15 00:00:00 | 0
+nan | Production | Packaging Design | Victor | 2024-03-14 00:00:00 | 22 | 2024-04-05 00:00:00 | 0
+nan | Sales | Lead Generation | Wendy | 2024-01-03 00:00:00 | 60 | 2024-03-03 00:00:00 | 0.7
+nan | Sales | Client Meetings | Xavier | 2024-01-06 00:00:00 | 20 | 2024-01-26 00:00:00 | 0.78
+nan | Sales | Contract Negotiation | Yvette | 2024-02-03 00:00:00 | 35 | 2024-03-09 00:00:00 | 0
+nan | Support | Technical Support | Zoe | 2024-01-01 00:00:00 | 25 | 2024-01-26 00:00:00 | 1
+nan | Support | Bug Fixes | Aaron | 2024-01-27 00:00:00 | 31 | 2024-02-27 00:00:00 | 1
+nan | Support | Software Updates | Bella | 2024-03-02 00:00:00 | 22 | 2024-03-24 00:00:00 | 0
+nan | Operations | Process Optimization | Calvin | 2024-01-03 00:00:00 | 30 | 2024-02-02 00:00:00 | 0.4
+nan | Operations | Inventory Management | Diane | 2024-02-03 00:00:00 | 25 | 2024-02-28 00:00:00 | 0
+nan | Operations | Facility Maintenance | Edward | 2024-02-29 00:00:00 | 20 | 2024-03-20 00:00:00 | 0
+nan | Consulting | Strategic Planning | Fiona | 2024-01-02 00:00:00 | 35 | 2024-02-06 00:00:00 | 0.6
+nan | Consulting | Market Expansion | Gary | 2024-02-02 00:00:00 | 32 | 2024-03-05 00:00:00 | 0
+nan | Consulting | Client Advisory | Helen | 2024-03-06 00:00:00 | 25 | 2024-03-31 00:00:00 | 0
+nan | Training | Employee Training | Isaac | 2024-01-04 00:00:00 | 27 | 2024-01-31 00:00:00 | 0.8
+nan | Training | Certification Programs | Jane | 2024-01-28 00:00:00 | 30 | 2024-02-27 00:00:00 | 0
+nan | Training | Skill Development | Kyle | 2024-02-28 00:00:00 | 22 | 2024-03-21 00:00:00 | 0
+nan | Events | Event Planning | Laura | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.3
+nan | Events | Conference Management | Mike | 2024-02-03 00:00:00 | 20 | 2024-02-23 00:00:00 | 0
+nan | Events | Sponsorship Coordinatio | n Nancy | 2024-02-24 00:00:00 | 35 | 2024-03-30 00:00:00 | 0
+nan | Logistics | Supply Chain Management | Oscar | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.5
+nan | Logistics | Transportation Planning | Patricia | 2024-01-29 00:00:00 | 30 | 2024-02-28 00:00:00 | 1
+nan | Logistics | Inventory Optimization | Quentin | 2024-03-29 00:00:00 | 20 | 2024-04-18 00:00:00 | 0
+nan | Engineering | Product Design | Rachel | 2024-01-02 00:00:00 | 25 | 2024-01-27 00:00:00 | 0.2
+nan | Engineering | System Integration | Sam | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0
+nan | Engineering | Prototype Testing | Tom | 2024-02-23 00:00:00 | 27 | 2024-03-21 00:00:00 | 0
+2026-02-01 19:24:03,814 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:24:04,068 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:24:10,205 | INFO | INGEST COMPLETED | file=Project-Management-Sample-Data.xlsx | chunks=2
+2026-02-01 19:24:10,212 | INFO | INGEST STARTED | file=Project-Management-Sample-Data.xlsx
+2026-02-01 19:24:10,249 | INFO | [INGESTED CHUNK 1]
+
+2026-02-01 19:24:10,249 | INFO | [INGESTED CHUNK 2]
+
+
+--- SHEET: Project Management Data ---
+nan | Excel Sample Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Management Data | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Project Name | Task Name | Assigned to | Start Date | Days Required | End Date | Progress
+nan | Marketing | Market Research | Alice | 2024-01-01 00:00:00 | 13 | 2024-01-14 00:00:00 | 0.78
+nan | Marketing | Content Creation | Bob | 2024-01-14 00:00:00 | 14 | 2024-01-28 00:00:00 | 1
+nan | Marketing | Social Media Planning | Charlie | 2024-01-28 00:00:00 | 22 | 2024-02-19 00:00:00 | 0.45
+nan | Marketing | Campaign Analysis | Daisy | 2024-02-18 00:00:00 | 25 | 2024-03-14 00:00:00 | 0
+nan | Product Dev | Prototype Development | Ethan | 2024-01-02 00:00:00 | 18 | 2024-01-20 00:00:00 | 1
+nan | Product Dev | Quality Assurance | Fiona | 2024-01-20 00:00:00 | 10 | 2024-01-30 00:00:00 | 0.78
+nan | Product Dev | User Interface Design | Gabriel | 2024-02-04 00:00:00 | 25 | 2024-02-29 00:00:00 | 0
+nan | Customer Svc | Service Improvement | Hannah | 2024-02-01 00:00:00 | 22 | 2024-02-23 00:00:00 | 1
+nan | Customer Svc | Ticket Resolution | Ian | 2024-02-24 00:00:00 | 25 | 2024-03-20 00:00:00 | 1
+nan | Customer Svc | Customer Feedback | Julia | 2024-03-21 00:00:00 | 30 | 2024-04-20 00:00:00 | 0
+nan | Financial | Budget Analysis | Kevin | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0.1
+nan | Financial | Financial Reporting | Mark | 2024-02-13 00:00:00 | 21 | 2024-02-09 00:00:00 | 0.78
+nan | Financial | Investment Planning | Mark | 2024-03-19 00:00:00 | 25 | 2024-04-13 00:00:00 | 1
+nan | Research | Market Trends Analysis | Nathan | 2024-01-02 00:00:00 | 23 | 2024-01-25 00:00:00 | 0.5
+nan | Research | Data Collection | Olivia | 2024-01-26 00:00:00 | 32 | 2024-02-27 00:00:00 | 0
+nan | Research | Research Paper Writing | Peter | 2024-02-28 00:00:00 | 27 | 2024-03-26 00:00:00 | 0
+nan | Development | Software Development | Quinn | 2024-01-02 00:00:00 | 36 | 2024-02-07 00:00:00 | 1
+nan | Development | Feature Enhancement | Rachel | 2024-02-08 00:00:00 | 34 | 2024-03-13 00:00:00 | 0
+nan | Development | Code Review | Sam | 2024-03-14 00:00:00 | 30 | 2024-04-13 00:00:00 | 0
+nan | Production | Manufacturing | Tim | 2024-01-03 00:00:00 | 47 | 2024-02-19 00:00:00 | 0.3
+nan | Production | Quality Control | Ursula | 2024-02-17 00:00:00 | 27 | 2024-03-15 00:00:00 | 0
+nan | Production | Packaging Design | Victor | 2024-03-14 00:00:00 | 22 | 2024-04-05 00:00:00 | 0
+nan | Sales | Lead Generation | Wendy | 2024-01-03 00:00:00 | 60 | 2024-03-03 00:00:00 | 0.7
+nan | Sales | Client Meetings | Xavier | 2024-01-06 00:00:00 | 20 | 2024-01-26 00:00:00 | 0.78
+nan | Sales | Contract Negotiation | Yvette | 2024-02-03 00:00:00 | 35 | 2024-03-09 00:00:00 | 0
+nan | Support | Technical Support | Zoe | 2024-01-01 00:00:00 | 25 | 2024-01-26 00:00:00 | 1
+nan | Support | Bug Fixes | Aaron | 2024-01-27 00:00:00 | 31 | 2024-02-27 00:00:00 | 1
+nan | Support | Software Updates | Bella | 2024-03-02 00:00:00 | 22 | 2024-03-24 00:00:00 | 0
+nan | Operations | Process Optimization | Calvin | 2024-01-03 00:00:00 | 30 | 2024-02-02 00:00:00 | 0.4
+nan | Operations | Inventory Management | Diane | 2024-02-03 00:00:00 | 25 | 2024-02-28 00:00:00 | 0
+nan | Operations | Facility Maintenance | Edward | 2024-02-29 00:00:00 | 20 | 2024-03-20 00:00:00 | 0
+nan | Consulting | Strategic Planning | Fiona | 2024-01-02 00:00:00 | 35 | 2024-02-06 00:00:00 | 0.6
+nan | Consulting | Market Expansion | Gary | 2024-02-02 00:00:00 | 32 | 2024-03-05 00:00:00 | 0
+nan | Consulting | Client Advisory | Helen | 2024-03-06 00:00:00 | 25 | 2024-03-31 00:00:00 | 0
+nan | Training | Employee Training | Isaac | 2024-01-04 00:00:00 | 27 | 2024-01-31 00:00:00 | 0.8
+nan | Training | Certification Programs | Jane | 2024-01-28 00:00:00 | 30 | 2024-02-27 00:00:00 | 0
+nan | Training | Skill Development | Kyle | 2024-02-28 00:00:00 | 22 | 2024-03-21 00:00:00 | 0
+nan | Events | Event Planning | Laura | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.3
+nan | Events | Conference Management | Mike | 2024-02-03 00:00:00 | 20 | 2024-02-23 00:00:00 | 0
+nan | Events | Sponsorship Coordinatio | n Nancy | 2024-02-24 00:00:00 | 35 | 2024-03-30 00:00:00 | 0
+nan | Logistics | Supply Chain Management | Oscar | 2024-01-03 00:00:00 | 25 | 2024-01-28 00:00:00 | 0.5
+nan | Logistics | Transportation Planning | Patricia | 2024-01-29 00:00:00 | 30 | 2024-02-28 00:00:00 | 1
+nan | Logistics | Inventory Optimization | Quentin | 2024-03-29 00:00:00 | 20 | 2024-04-18 00:00:00 | 0
+nan | Engineering | Product Design | Rachel | 2024-01-02 00:00:00 | 25 | 2024-01-27 00:00:00 | 0.2
+nan | Engineering | System Integration | Sam | 2024-02-02 00:00:00 | 22 | 2024-02-24 00:00:00 | 0
+nan | Engineering | Prototype Testing | Tom | 2024-02-23 00:00:00 | 27 | 2024-03-21 00:00:00 | 0
+2026-02-01 19:24:10,649 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:24:10,835 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:24:20,241 | INFO | INGEST COMPLETED | file=Project-Management-Sample-Data.xlsx | chunks=2
+2026-02-01 19:24:20,244 | INFO | [QUERY] what the document conatins
+2026-02-01 19:24:20,666 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:24:25,285 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 19:24:25,285 | INFO | [ANSWER GENERATED]
+2026-02-01 19:27:43,037 | INFO | INGEST STARTED | file=AI_Engineer_Assignment.pdf
+2026-02-01 19:27:43,515 | INFO | [INGESTED CHUNK 1]
+--- PAGE 1 ---
+Agentic RAG System
+Objective
+Build an Agentic RAG System that uses AI agents to intelligently retrieve and
+answer questions from documents.
+Requirements
+Your AI agent-powered system must:
+1. Ingest data from the specified data sources
+2. Store information in a vector database
+3. Use agentic workflows to answer user queries
+1. Agentic Workflow
+• Demonstrate agentic behaviour in query processing
+2. RAG Implementation
+• Use any Vector Database
+• Data Engineering is critical - show your thinking on data processing
+3. LLM Integration
+• Use any LLM of your choice
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+2026-02-01 19:27:43,521 | INFO | [INGESTED CHUNK 2]
+
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+
+--- PAGE 2 ---
+Bonus Points
+• Milvus as vector database
+• Advanced retrieval techniques
+• Clean UI
+• Comprehensive error handling
+• Self-Hosted LLM with any framework like Ollama or vLLM
+• MCP (Model Context Protocol) Servers - Build or use MCP servers
+Submissions
+1. GitHub Repository (Public)
+Must include:
+• Complete working code
+• README with setup instructions
+• Sample data (if applicable)
+• Requirements file
+2. System Design Document (PDF)
+Must explain:
+• System architecture diagram
+• Agentic workflow design
+• Context construction strategy
+• Technology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+2026-02-01 19:27:43,522 | INFO | [INGESTED CHUNK 3]
+echnology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+
+--- PAGE 3 ---
+Submission Instructions
+Submit the following through email:
+• GitHub repository URL
+• Video recording link
+• System Design Document (PDF)
+Good luck! Show us how you think about building intelligent AI systems.
+2026-02-01 19:27:43,952 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:27:44,158 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:27:44,377 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:27:50,517 | INFO | INGEST COMPLETED | file=AI_Engineer_Assignment.pdf | chunks=3
+2026-02-01 19:27:56,545 | INFO | INGEST STARTED | file=AI_Engineer_Assignment.pdf
+2026-02-01 19:27:57,049 | INFO | [INGESTED CHUNK 1]
+--- PAGE 1 ---
+Agentic RAG System
+Objective
+Build an Agentic RAG System that uses AI agents to intelligently retrieve and
+answer questions from documents.
+Requirements
+Your AI agent-powered system must:
+1. Ingest data from the specified data sources
+2. Store information in a vector database
+3. Use agentic workflows to answer user queries
+1. Agentic Workflow
+• Demonstrate agentic behaviour in query processing
+2. RAG Implementation
+• Use any Vector Database
+• Data Engineering is critical - show your thinking on data processing
+3. LLM Integration
+• Use any LLM of your choice
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+2026-02-01 19:27:57,049 | INFO | [INGESTED CHUNK 2]
+
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+
+--- PAGE 2 ---
+Bonus Points
+• Milvus as vector database
+• Advanced retrieval techniques
+• Clean UI
+• Comprehensive error handling
+• Self-Hosted LLM with any framework like Ollama or vLLM
+• MCP (Model Context Protocol) Servers - Build or use MCP servers
+Submissions
+1. GitHub Repository (Public)
+Must include:
+• Complete working code
+• README with setup instructions
+• Sample data (if applicable)
+• Requirements file
+2. System Design Document (PDF)
+Must explain:
+• System architecture diagram
+• Agentic workflow design
+• Context construction strategy
+• Technology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+2026-02-01 19:27:57,049 | INFO | [INGESTED CHUNK 3]
+echnology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+
+--- PAGE 3 ---
+Submission Instructions
+Submit the following through email:
+• GitHub repository URL
+• Video recording link
+• System Design Document (PDF)
+Good luck! Show us how you think about building intelligent AI systems.
+2026-02-01 19:27:57,285 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:27:57,475 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:27:57,666 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:28:02,955 | INFO | INGEST COMPLETED | file=AI_Engineer_Assignment.pdf | chunks=3
+2026-02-01 19:28:05,000 | INFO | [QUERY] what this document is contained
+2026-02-01 19:28:05,509 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:28:09,285 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 19:28:09,315 | INFO | [ANSWER GENERATED]
+2026-02-01 19:28:11,378 | INFO | INGEST STARTED | file=AI_Engineer_Assignment.pdf
+2026-02-01 19:28:11,665 | INFO | [INGESTED CHUNK 1]
+--- PAGE 1 ---
+Agentic RAG System
+Objective
+Build an Agentic RAG System that uses AI agents to intelligently retrieve and
+answer questions from documents.
+Requirements
+Your AI agent-powered system must:
+1. Ingest data from the specified data sources
+2. Store information in a vector database
+3. Use agentic workflows to answer user queries
+1. Agentic Workflow
+• Demonstrate agentic behaviour in query processing
+2. RAG Implementation
+• Use any Vector Database
+• Data Engineering is critical - show your thinking on data processing
+3. LLM Integration
+• Use any LLM of your choice
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+2026-02-01 19:28:11,665 | INFO | [INGESTED CHUNK 2]
+
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+
+--- PAGE 2 ---
+Bonus Points
+• Milvus as vector database
+• Advanced retrieval techniques
+• Clean UI
+• Comprehensive error handling
+• Self-Hosted LLM with any framework like Ollama or vLLM
+• MCP (Model Context Protocol) Servers - Build or use MCP servers
+Submissions
+1. GitHub Repository (Public)
+Must include:
+• Complete working code
+• README with setup instructions
+• Sample data (if applicable)
+• Requirements file
+2. System Design Document (PDF)
+Must explain:
+• System architecture diagram
+• Agentic workflow design
+• Context construction strategy
+• Technology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+2026-02-01 19:28:11,666 | INFO | [INGESTED CHUNK 3]
+echnology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+
+--- PAGE 3 ---
+Submission Instructions
+Submit the following through email:
+• GitHub repository URL
+• Video recording link
+• System Design Document (PDF)
+Good luck! Show us how you think about building intelligent AI systems.
+2026-02-01 19:28:12,077 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:28:12,277 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:28:12,475 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:28:17,995 | INFO | INGEST COMPLETED | file=AI_Engineer_Assignment.pdf | chunks=3
+2026-02-01 19:45:52,885 | INFO | [QUERY] jioii
+2026-02-01 19:45:53,175 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:45:57,459 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 19:45:57,509 | INFO | [ANSWER GENERATED]
+2026-02-01 19:50:16,123 | INFO | INGEST STARTED | file=AI_Engineer_Assignment.pdf
+2026-02-01 19:50:16,496 | INFO | [INGESTED CHUNK 1]
+--- PAGE 1 ---
+Agentic RAG System
+Objective
+Build an Agentic RAG System that uses AI agents to intelligently retrieve and
+answer questions from documents.
+Requirements
+Your AI agent-powered system must:
+1. Ingest data from the specified data sources
+2. Store information in a vector database
+3. Use agentic workflows to answer user queries
+1. Agentic Workflow
+• Demonstrate agentic behaviour in query processing
+2. RAG Implementation
+• Use any Vector Database
+• Data Engineering is critical - show your thinking on data processing
+3. LLM Integration
+• Use any LLM of your choice
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+2026-02-01 19:50:16,497 | INFO | [INGESTED CHUNK 2]
+
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+
+--- PAGE 2 ---
+Bonus Points
+• Milvus as vector database
+• Advanced retrieval techniques
+• Clean UI
+• Comprehensive error handling
+• Self-Hosted LLM with any framework like Ollama or vLLM
+• MCP (Model Context Protocol) Servers - Build or use MCP servers
+Submissions
+1. GitHub Repository (Public)
+Must include:
+• Complete working code
+• README with setup instructions
+• Sample data (if applicable)
+• Requirements file
+2. System Design Document (PDF)
+Must explain:
+• System architecture diagram
+• Agentic workflow design
+• Context construction strategy
+• Technology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+2026-02-01 19:50:16,497 | INFO | [INGESTED CHUNK 3]
+echnology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+
+--- PAGE 3 ---
+Submission Instructions
+Submit the following through email:
+• GitHub repository URL
+• Video recording link
+• System Design Document (PDF)
+Good luck! Show us how you think about building intelligent AI systems.
+2026-02-01 19:50:16,955 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:50:17,148 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:50:17,409 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:50:23,214 | INFO | INGEST COMPLETED | file=AI_Engineer_Assignment.pdf | chunks=3
+2026-02-01 19:50:41,877 | INFO | INGEST STARTED | file=AI_Engineer_Assignment.pdf
+2026-02-01 19:50:42,262 | INFO | [INGESTED CHUNK 1]
+--- PAGE 1 ---
+Agentic RAG System
+Objective
+Build an Agentic RAG System that uses AI agents to intelligently retrieve and
+answer questions from documents.
+Requirements
+Your AI agent-powered system must:
+1. Ingest data from the specified data sources
+2. Store information in a vector database
+3. Use agentic workflows to answer user queries
+1. Agentic Workflow
+• Demonstrate agentic behaviour in query processing
+2. RAG Implementation
+• Use any Vector Database
+• Data Engineering is critical - show your thinking on data processing
+3. LLM Integration
+• Use any LLM of your choice
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+2026-02-01 19:50:42,263 | INFO | [INGESTED CHUNK 2]
+
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+
+--- PAGE 2 ---
+Bonus Points
+• Milvus as vector database
+• Advanced retrieval techniques
+• Clean UI
+• Comprehensive error handling
+• Self-Hosted LLM with any framework like Ollama or vLLM
+• MCP (Model Context Protocol) Servers - Build or use MCP servers
+Submissions
+1. GitHub Repository (Public)
+Must include:
+• Complete working code
+• README with setup instructions
+• Sample data (if applicable)
+• Requirements file
+2. System Design Document (PDF)
+Must explain:
+• System architecture diagram
+• Agentic workflow design
+• Context construction strategy
+• Technology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+2026-02-01 19:50:42,263 | INFO | [INGESTED CHUNK 3]
+echnology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+
+--- PAGE 3 ---
+Submission Instructions
+Submit the following through email:
+• GitHub repository URL
+• Video recording link
+• System Design Document (PDF)
+Good luck! Show us how you think about building intelligent AI systems.
+2026-02-01 19:50:42,680 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:50:42,928 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:50:43,129 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:50:48,089 | INFO | INGEST COMPLETED | file=AI_Engineer_Assignment.pdf | chunks=3
+2026-02-01 19:50:50,150 | INFO | [QUERY] what is the uploaded document contains
+2026-02-01 19:50:50,560 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:50:55,643 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 19:50:55,679 | INFO | [ANSWER GENERATED]
+2026-02-01 19:53:13,513 | INFO | INGEST STARTED | file=AI_Engineer_Assignment.pdf
+2026-02-01 19:53:13,722 | INFO | [INGESTED CHUNK 1]
+--- PAGE 1 ---
+Agentic RAG System
+Objective
+Build an Agentic RAG System that uses AI agents to intelligently retrieve and
+answer questions from documents.
+Requirements
+Your AI agent-powered system must:
+1. Ingest data from the specified data sources
+2. Store information in a vector database
+3. Use agentic workflows to answer user queries
+1. Agentic Workflow
+• Demonstrate agentic behaviour in query processing
+2. RAG Implementation
+• Use any Vector Database
+• Data Engineering is critical - show your thinking on data processing
+3. LLM Integration
+• Use any LLM of your choice
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+2026-02-01 19:53:13,722 | INFO | [INGESTED CHUNK 2]
+
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+
+--- PAGE 2 ---
+Bonus Points
+• Milvus as vector database
+• Advanced retrieval techniques
+• Clean UI
+• Comprehensive error handling
+• Self-Hosted LLM with any framework like Ollama or vLLM
+• MCP (Model Context Protocol) Servers - Build or use MCP servers
+Submissions
+1. GitHub Repository (Public)
+Must include:
+• Complete working code
+• README with setup instructions
+• Sample data (if applicable)
+• Requirements file
+2. System Design Document (PDF)
+Must explain:
+• System architecture diagram
+• Agentic workflow design
+• Context construction strategy
+• Technology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+2026-02-01 19:53:13,722 | INFO | [INGESTED CHUNK 3]
+echnology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+
+--- PAGE 3 ---
+Submission Instructions
+Submit the following through email:
+• GitHub repository URL
+• Video recording link
+• System Design Document (PDF)
+Good luck! Show us how you think about building intelligent AI systems.
+2026-02-01 19:53:14,187 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:53:14,388 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:53:14,586 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:53:19,929 | INFO | INGEST COMPLETED | file=AI_Engineer_Assignment.pdf | chunks=3
+2026-02-01 19:54:28,998 | INFO | INGEST STARTED | file=AI_Engineer_Assignment.pdf
+2026-02-01 19:54:29,325 | INFO | [INGESTED CHUNK 1]
+--- PAGE 1 ---
+Agentic RAG System
+Objective
+Build an Agentic RAG System that uses AI agents to intelligently retrieve and
+answer questions from documents.
+Requirements
+Your AI agent-powered system must:
+1. Ingest data from the specified data sources
+2. Store information in a vector database
+3. Use agentic workflows to answer user queries
+1. Agentic Workflow
+• Demonstrate agentic behaviour in query processing
+2. RAG Implementation
+• Use any Vector Database
+• Data Engineering is critical - show your thinking on data processing
+3. LLM Integration
+• Use any LLM of your choice
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+2026-02-01 19:54:29,326 | INFO | [INGESTED CHUNK 2]
+
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+
+--- PAGE 2 ---
+Bonus Points
+• Milvus as vector database
+• Advanced retrieval techniques
+• Clean UI
+• Comprehensive error handling
+• Self-Hosted LLM with any framework like Ollama or vLLM
+• MCP (Model Context Protocol) Servers - Build or use MCP servers
+Submissions
+1. GitHub Repository (Public)
+Must include:
+• Complete working code
+• README with setup instructions
+• Sample data (if applicable)
+• Requirements file
+2. System Design Document (PDF)
+Must explain:
+• System architecture diagram
+• Agentic workflow design
+• Context construction strategy
+• Technology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+2026-02-01 19:54:29,326 | INFO | [INGESTED CHUNK 3]
+echnology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+
+--- PAGE 3 ---
+Submission Instructions
+Submit the following through email:
+• GitHub repository URL
+• Video recording link
+• System Design Document (PDF)
+Good luck! Show us how you think about building intelligent AI systems.
+2026-02-01 19:54:29,592 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:54:29,786 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:54:29,983 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:54:35,034 | INFO | INGEST COMPLETED | file=AI_Engineer_Assignment.pdf | chunks=3
+2026-02-01 19:55:03,028 | INFO | INGEST STARTED | file=AI_Engineer_Assignment.pdf
+2026-02-01 19:55:03,452 | INFO | [INGESTED CHUNK 1]
+--- PAGE 1 ---
+Agentic RAG System
+Objective
+Build an Agentic RAG System that uses AI agents to intelligently retrieve and
+answer questions from documents.
+Requirements
+Your AI agent-powered system must:
+1. Ingest data from the specified data sources
+2. Store information in a vector database
+3. Use agentic workflows to answer user queries
+1. Agentic Workflow
+• Demonstrate agentic behaviour in query processing
+2. RAG Implementation
+• Use any Vector Database
+• Data Engineering is critical - show your thinking on data processing
+3. LLM Integration
+• Use any LLM of your choice
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+2026-02-01 19:55:03,452 | INFO | [INGESTED CHUNK 2]
+
+• Free APIs are acceptable (e.g., Google Gemini)
+4. Data Source
+System should support the following:
+• Documents (PDF, DOCX, PPT)
+• Excel
+• Text File
+
+--- PAGE 2 ---
+Bonus Points
+• Milvus as vector database
+• Advanced retrieval techniques
+• Clean UI
+• Comprehensive error handling
+• Self-Hosted LLM with any framework like Ollama or vLLM
+• MCP (Model Context Protocol) Servers - Build or use MCP servers
+Submissions
+1. GitHub Repository (Public)
+Must include:
+• Complete working code
+• README with setup instructions
+• Sample data (if applicable)
+• Requirements file
+2. System Design Document (PDF)
+Must explain:
+• System architecture diagram
+• Agentic workflow design
+• Context construction strategy
+• Technology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+2026-02-01 19:55:03,453 | INFO | [INGESTED CHUNK 3]
+echnology choices and rationale
+• Key design decisions
+• Limitations
+3. Video Recording (~3 minutes)
+Must demonstrate:
+• System flow and functionality
+
+--- PAGE 3 ---
+Submission Instructions
+Submit the following through email:
+• GitHub repository URL
+• Video recording link
+• System Design Document (PDF)
+Good luck! Show us how you think about building intelligent AI systems.
+2026-02-01 19:55:03,837 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:55:04,032 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:55:04,227 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:55:09,242 | INFO | INGEST COMPLETED | file=AI_Engineer_Assignment.pdf | chunks=3
+2026-02-01 19:55:11,315 | INFO | [QUERY] what this document contains explian me in deapth what i need to do
+2026-02-01 19:55:11,539 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:batchEmbedContents "HTTP/1.1 200 OK"
+2026-02-01 19:55:15,843 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-01 19:55:15,853 | INFO | [ANSWER GENERATED]

@@ -1,0 +1,105 @@
+
+
+=== FILE: SNP(resume).pdf ===
+
+[CHUNK 1]
+SANDESH PATIL
+Bengaluru | +91 7349215174 | patil2004sandesh@gmail.com | Linkedin
+PROFESSIONAL SUMMARY
+AI Engineer specializing in machine learning, deep learning, and data science. Proficient in Python, PyTorch, TensorFlow, Hugging Face, NLP, and
+LLM fine-tuning. I build and deploy real-time solutions across healthcare, computer vision, and automation, delivering scalable, production-grade
+systems with measurable impact.
+TECHNICAL SKILLS
+• Programming Languages: C, Python, Java, Go Lang
+• Others
+
+[CHUNK 2]
+ with measurable impact.
+TECHNICAL SKILLS
+• Programming Languages: C, Python, Java, Go Lang
+• Others: ML, Deep Learning, RAG, LLM
+• Framework and libraries: PyTorch, Langchain, LangGraph, TensorFlow, NumPy, Pandas, Scikit-learn, OpenCV
+• Cloud Deployment: Docker, Kubernetes, Azure, AWS
+• Tools And Databases: MySQL, Neo4j, Google Colab, Vector Databases, Chroma DB, Qdrant
+PROFESSIONAL EXPERIENCE
+Meril Jun 2025 - Present
+AI Engineer Bengaluru
+• Designed NLP pipelines to process patient–doctor conv
+
+[CHUNK 3]
+ril Jun 2025 - Present
+AI Engineer Bengaluru
+• Designed NLP pipelines to process patient–doctor conversational data, extract clinical entities, and generate structured prescriptions and medical
+reports
+• Developed an AI chatbot to handle patient queries, doctor responses, and contextual follow-ups
+• Applied LLM fine-tuning and evaluation frameworks to enhance decision support; partnered with clinicians to translate requirements into models.
+• Implemented document classification and information e
+
+[CHUNK 4]
+cians to translate requirements into models.
+• Implemented document classification and information extraction using open-source OCR and GLiNER, leveraging classical NLP and ML techniques
+without LLMs.
+• Built non-LLM pipelines for government ID document processing using OCR, rule-based validation, and traditional NLP for structured data
+extraction.
+• Technologies Used: Python, PyTorch, Hugging Face, OpenCV, Langchain, LangGraph, RAG, Vector Databases, Neo4j, NLP
+Dell Technologies Feb 2025 - Jun 
+
+[CHUNK 5]
+e, OpenCV, Langchain, LangGraph, RAG, Vector Databases, Neo4j, NLP
+Dell Technologies Feb 2025 - Jun 2025
+Software Development Intern Bengaluru
+• Contributed to infrastructure automation workflows using Golang and Python, focusing on scalable orchestration and deployment.
+• Built and optimized containerized services with Docker and Kubernetes to streamline environment setup and rollouts.
+• Collaborated on testing, debugging, and performance tuning to ensure production readiness and stability acro
+
+[CHUNK 6]
+ated on testing, debugging, and performance tuning to ensure production readiness and stability across modules.
+• Improved release reliability with CI/CD and validation gates, reducing deployment failures
+• Technologies Used: Golang, Python, Kubernetes, Docker
+PROJECTS
+AI model for predicting Tooth Resorption
+• Built AI models to detect early signs of root resorption from dental imagery to aid orthodontic treatment decisions.
+• Developed CNN + Random Forest pipeline with OpenCV preprocessing, im
+
+[CHUNK 7]
+hodontic treatment decisions.
+• Developed CNN + Random Forest pipeline with OpenCV preprocessing, improving early detection rates and reducing false negatives.
+• Applied data augmentation and model tuning to increase accuracy while maintaining inference speed suitable for clinical workflows.
+Sign Language Recognition
+• Implemented real-time gesture classification to recognize sign language and enhance accessibility for hearing-impaired users.
+• Built CNN with Transfer Learning using TensorFlow, 
+
+[CHUNK 8]
+ance accessibility for hearing-impaired users.
+• Built CNN with Transfer Learning using TensorFlow, achieving accuracy of 90% with inference latency around 45–60 ms on live video.
+• Created labeled dataset with LabelImg and OpenCV pipeline, expanding training data by 1200+ to improve generalization by 18–22%.
+Traffic Flow Management
+• Designed ML-driven congestion detection and signal optimization using real-time feeds to reduce urban traffic delays.
+• Implemented ML-based congestion detection w
+
+[CHUNK 9]
+ using real-time feeds to reduce urban traffic delays.
+• Implemented ML-based congestion detection with TensorFlow and real-time processing, reducing average wait times by 15–20% on test routes.
+• Optimized signal timing strategies, decreasing congestion events by ~15% and improving throughput across monitored intersections.
+EDUCATION
+Dayananda Sagar University 2025
+Bachelor of Technology, CSE Bangalore
+KLE Prerana PU College 2021
+Class XII, State Board Hubballi
+Sri Krishnadevaraya Educational S
+
+[CHUNK 10]
+galore
+KLE Prerana PU College 2021
+Class XII, State Board Hubballi
+Sri Krishnadevaraya Educational Society 2019
+Class X, State Board Sindhanur
+CERTIFICATIONS
+• NPTEL Python
+• NPTEL Design and Analysis of Algorithms
+• NPTEL Database Management System
+ACHIEVEMENTS
+• Reached the finals of the college-organized Coding Challenge, finishing among the top 2 finalists.
+LANGUAGES
+• English
+• Kannada
