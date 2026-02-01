@@ -72,7 +72,7 @@ Agentic-RAG is a modular Retrieval-Augmented Generation (RAG) system that lets y
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-org/agentic-rag.git
+git clone https://github.com/PatilSandesh2004/Agentic-RAG.git
 cd agentic-rag
 ```
 
